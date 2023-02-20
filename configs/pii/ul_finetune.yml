@@ -1,0 +1,8 @@
+objective:
+  name: Unlikelihood
+  score_threshold: 0.0
+  alpha: 1
+
+training:
+  effective_batch_size: 128
+  learning_rate: 0.0001

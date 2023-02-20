@@ -1,0 +1,83 @@
+dataset:
+  is_split_by_sentences: true
+  skip_tokens: 1649999872
+  datasets:
+    - "kejian/codeparrot-train-more-filter-3.3b-cleaned"
+  
+
+tokenizer:
+  path_or_name: codeparrot/codeparrot-small
+
+model:
+  path_or_name: kejian/mighty-mle
+  from_scratch: false
+  gpt2_config_kwargs:
+      reorder_and_upcast_attn: true
+      scale_attn_by: true
+  model_kwargs:
+      revision: "cf05a2b0558c03b08c78f07662c22989785b9520"
+
+objective:
+  name: MLE
+
+training:
+  output_dir: training_output
+  effective_batch_size: 64
+  tokens_already_seen: 1649999872
+  num_tokens: 3.3E+9
+  learning_rate: 0.0005
+  per_device_train_batch_size: 16
+  fp16: true
+  weight_decay: 0.1
+  evaluation_strategy: 'no'
+  logging_steps: 1
+  warmup_ratio: 0.01
+  logging_first_step: true
+  seed: 42
+  remove_unused_columns: false
+  dataloader_num_workers: 0
+  save_strategy: steps
+  save_steps: 25177
+
+generation:
+  scorer_config:
+    class_name: PEP8Scorer
+  metrics_configs:
+    - class_name: Length
+    - class_name: NGramStats
+      n: 1
+  batch_size: 128
+  scenario_configs:
+    - name: unconditional
+      display_as_html: true
+      num_samples: 4096
+      num_hits_threshold: 0
+      generate_kwargs:
+        do_sample: true
+        max_length: 640
+        min_length: 10
+        temperature: 0.7
+        top_p: 0.9
+        top_k: 0
+        eos_token_id: 0
+
+    - name: functions
+      prompts_path: resources/functions_csnet.jsonl
+      display_as_html: true
+      num_samples: 4096
+      num_hits_threshold: 0
+      use_prompt_for_scoring: true
+      generate_kwargs:
+        do_sample: true
+        max_length: 272
+        min_length: 10
+        temperature: 0.7
+        top_p: 0.9
+        top_k: 0
+        eos_token_id: 0
+
+kl_gpt3_callback:
+  num_samples: 4096
+  max_tokens: 64
+  gpt3_kwargs:
+    model_name: code-cushman-001

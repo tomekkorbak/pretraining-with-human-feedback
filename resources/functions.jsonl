@@ -1,0 +1,1000 @@
+{"text":"def _load_generic(self,attrname):\n"}
+{"text":"def handle_WELCOME(self,line):\n"}
+{"text":"def hasContent_(self):\n"}
+{"text":"def initialize(self):\n"}
+{"text":"def test_socklayer(self):\n"}
+{"text":"def __eq__(self,other):\n"}
+{"text":"def _CToASCII(self,output_format):\n"}
+{"text":"def __init__(self,** kwargs):\n"}
+{"text":"def read(self,option):\n"}
+{"text":"def onShowCalendar(self,sender):\n"}
+{"text":"def setUp(self):\n"}
+{"text":"def set_stream_info(self):\n"}
+{"text":"def lighten(self,v):\n"}
+{"text":"def autocenter_cb(self,setting,option,fitsimage,info):\n"}
+{"text":"def degree(self):\n"}
+{"text":"def test_add_permission_denied(self,isdir_mock,listdir_mock):\n"}
+{"text":"def _GetTargetPostbuilds(self,configname,output,output_binary,quiet = False):\n"}
+{"text":"def save_object_data(self,instance,name,value):\n"}
+{"text":"def __init__(self,code1,code2):\n"}
+{"text":"def test_only_auth_url(self):\n"}
+{"text":"def set_cursor(self,cursor):\n"}
+{"text":"def _set_from_protocol(self,from_protocol):\n"}
+{"text":"def choices_from_params(self):\n"}
+{"text":"def __init__(self,params):\n"}
+{"text":"def indent(self,text,prefix = '    '):\n"}
+{"text":"def __repr__(self):\n"}
+{"text":"def __reduce__(self):\n"}
+{"text":"def endWrite(self,withErrors):\n"}
+{"text":"def read_events(self,events,timeout = None):\n"}
+{"text":"def orderChanged(self,neworder):\n"}
+{"text":"def _verify_format(self,type,format,valid):\n"}
+{"text":"def get_members(self):\n"}
+{"text":"def __hash__(self):\n"}
+{"text":"def __init__(self,val,config):\n"}
+{"text":"def delete(self,context,image_id):\n"}
+{"text":"def test_acts(self):\n"}
+{"text":"def test_named_entities(self):\n"}
+{"text":"def __unicode__(self):\n"}
+{"text":"def setUp(self):\n"}
+{"text":"def _prepare_core_mock_for_EndRun(self):\n"}
+{"text":"def __init__(self):\n"}
+{"text":"def test_simple_one_line(self):\n"}
+{"text":"def __init__(self):\n"}
+{"text":"def rebuild_editor(self):\n"}
+{"text":"def test_handle_event_tick_interval_not_expired(self):\n"}
+{"text":"def run(self,edit,encoding,file_name,need_codecs):\n"}
+{"text":"def fs(self):\n"}
+{"text":"def setUp(self):\n"}
+{"text":"def stop_async(self):\n"}
+{"text":"def test__get_filters_burst_no_burst_value_given(self):\n"}
+{"text":"def deconstruct(self):\n"}
+{"text":"def _do_login(self,user,password,login_method):\n"}
+{"text":"def __repr__(self):\n"}
+{"text":"def addFlagData(self,data):\n"}
+{"text":"def release_button(self,button_name = LEFT_BUTTON):\n"}
+{"text":"def rget(self,key,replica_index = None,quiet = None):\n"}
+{"text":"def prepare_value(self,value):\n"}
+{"text":"def has_key(self,key):\n"}
+{"text":"def read_handler(self):\n"}
+{"text":"def test_dynamic_assertion_on_method_failure(self):\n"}
+{"text":"def on_deActivation(self):\n"}
+{"text":"def close_issue(self,project_id,ticket_id):\n"}
+{"text":"def iterencode(self,o,_one_shot = False):\n"}
+{"text":"def __init__(self,n_features = None):\n"}
+{"text":"def __call__(self,* args,** kwargs):\n"}
+{"text":"def test_cleanup_after_waituntilstatus_lets_nonrecov_errors_pass(self):\n"}
+{"text":"def test_singletime(self):\n"}
+{"text":"def uninstall(self,package_name,keep_data = False):\n"}
+{"text":"def test_get_object_type(self):\n"}
+{"text":"def testTblRappWriteReadDeleteCheck(self):\n"}
+{"text":"def visit_EnvironmentAttribute(self,node,frame):\n"}
+{"text":"def _get_value_for_name(self,name):\n"}
+{"text":"def UNPACK_SEQUENCE(self,count):\n"}
+{"text":"def setUp(self):\n"}
+{"text":"def __call__(self,* args,** kwargs):\n"}
+{"text":"def test_shift(self):\n"}
+{"text":"def test_self(self):\n"}
+{"text":"def test_invalid_status(self):\n"}
+{"text":"def _parse_response(self,response,return_type):\n"}
+{"text":"def test_register_include_fields(self):\n"}
+{"text":"def _getattr(self,name,attrs):\n"}
+{"text":"def get_name(self):\n"}
+{"text":"def update_defaults(self,defaults):\n"}
+{"text":"def test_download(self,MockHttpProvider,MockAuthProvider):\n"}
+{"text":"def add_warn(self,msg):\n"}
+{"text":"def test_create_file(self):\n"}
+{"text":"def test_extraneous_query_is_not_run(self):\n"}
+{"text":"def do_delete_queue(self,vhost,qname):\n"}
+{"text":"def signature_sent(self):\n"}
+{"text":"def points_until_next_level(self):\n"}
+{"text":"def create(self,* args,** kwargs):\n"}
+{"text":"def get_search_fields(self):\n"}
+{"text":"def _to_images(self,object,el_name = 'osImage'):\n"}
+{"text":"def score(self,X = None,Y = None):\n"}
+{"text":"def __init__(self):\n"}
+{"text":"def test_basics(self):\n"}
+{"text":"def tm_wday(self):\n"}
+{"text":"def __init__(self,option_strings,dest,nargs = None,const = None,default = None,type = None,choices = None,required = False,help = None,metavar = None):\n"}
+{"text":"def version(self,executable):\n"}
+{"text":"def setUp(self):\n"}
+{"text":"def test_listdir(self):\n"}
+{"text":"def GetWorksheetsFeed(self,key,wksht_id = None,query = None,visibility = 'private',projection = 'full'):\n"}
+{"text":"def test_both_sort_output_and_sort_by_file(self):\n"}
+{"text":"def __init__(self,filter_expression):\n"}
+{"text":"def to_dict(self):\n"}
+{"text":"def __init__(self,content = None,interpreter = None,interpreter_args = None,lineno = 0):\n"}
+{"text":"def value2html(self,ar,v,** cellattrs):\n"}
+{"text":"def _raise_exception(self,exception,field,message):\n"}
+{"text":"def setUp(self):\n"}
+{"text":"def create_external_link(self,where,name,target,createparents = False):\n"}
+{"text":"def __eq__(self,other):\n"}
+{"text":"def test_one(self):\n"}
+{"text":"def __len__(self):\n"}
+{"text":"def _popen(self,executable,argv,stdin = PIPE,stdout = PIPE,stderr = PIPE,cwd = None,env = None,new_session = False,** kwargs):\n"}
+{"text":"def _pendingActorResponse(self,envelope):\n"}
+{"text":"def test_03_03_must_be_gray_color(self):\n"}
+{"text":"def __init__(self,datum_id,nodeset,function):\n"}
+{"text":"def test_public_numbers_eq(self):\n"}
+{"text":"def _defl(self):\n"}
+{"text":"def sql_location(self):\n"}
+{"text":"def __init__(self,hs):\n"}
+{"text":"def destroyWorld(self,worldHandle):\n"}
+{"text":"def __init__(self,buf):\n"}
+{"text":"def get_configuration_form(self,mapping,* form_args,** form_kwargs):\n"}
+{"text":"def get(self,request):\n"}
+{"text":"def render(self,name,value,attrs = None):\n"}
+{"text":"def field(self):\n"}
+{"text":"def device_state_attributes(self):\n"}
+{"text":"def get_absolute_url(self):\n"}
+{"text":"def __bool__(self):\n"}
+{"text":"def the_website(self):\n"}
+{"text":"def upgrade_oozie_db(self):\n"}
+{"text":"def report(self):\n"}
+{"text":"def __init__(self,attrs = None):\n"}
+{"text":"def _stripws(self,tlist):\n"}
+{"text":"def buildDocument(self,uri,tagname):\n"}
+{"text":"def excludeConvertible_0(self,c):\n"}
+{"text":"def tag_name(self):\n"}
+{"text":"def viewMap(self,query):\n"}
+{"text":"def where_we_teleported(self):\n"}
+{"text":"def teardown(self):\n"}
+{"text":"def test_color_test(self):\n"}
+{"text":"def formatSettings(self,settings):\n"}
+{"text":"def get_messages(self,** params):\n"}
+{"text":"def log_message(self,format,* args):\n"}
+{"text":"def onchange(self,value):\n"}
+{"text":"def testRetursCurrentLineIfRangeIsEmpty(self):\n"}
+{"text":"def listen(self,factory):\n"}
+{"text":"def get_data(self):\n"}
+{"text":"def writeBar(self,bar_):\n"}
+{"text":"def test_navigation_before_start(self):\n"}
+{"text":"def __init__(self,get_connection,** kwargs):\n"}
+{"text":"def __eq__(self,other):\n"}
+{"text":"def getfirstweekday(self):\n"}
+{"text":"def setChartFootnotesLeftJustified(self,footnotesLeftJustified):\n"}
+{"text":"def join(self,ent):\n"}
+{"text":"def __init__(self,cname,encoding,is_unicode,is_str = False,py3str_cstring = None,intern = False):\n"}
+{"text":"def test_contains(self):\n"}
+{"text":"def __str__(self):\n"}
+{"text":"def get_rgb(self,index):\n"}
+{"text":"def setUp(self):\n"}
+{"text":"def setUp(self):\n"}
+{"text":"def set_arg_types(self,argspec,arg_types):\n"}
+{"text":"def testArchiveSuperCascade(self):\n"}
+{"text":"def upload_object(self,file_path,container,object_name,extra = None,verify_hash = True):\n"}
+{"text":"def __init__(self,all_channel = True):\n"}
+{"text":"def __init__(self,reactor,cluster):\n"}
+{"text":"def __init__(self,description):\n"}
+{"text":"def test_simple_unique(self):\n"}
+{"text":"def _get_indent(self,cursor):\n"}
+{"text":"def process(self,obj,meta):\n"}
+{"text":"def apply_fit_filters(self,choosers,alternatives):\n"}
+{"text":"def iteritems(self):\n"}
+{"text":"def check_continuous_case(self,a,q):\n"}
+{"text":"def test_import(self):\n"}
+{"text":"def __getstate__(self):\n"}
+{"text":"def __init__(self,request):\n"}
+{"text":"def empty_chain(self,chain,wrap = True):\n"}
+{"text":"def get_description(self):\n"}
+{"text":"def test_swap(self):\n"}
+{"text":"def __eq__(self,other):\n"}
+{"text":"def chomp(self,token):\n"}
+{"text":"def prep_for_iexact_query(self,x):\n"}
+{"text":"def verify(self):\n"}
+{"text":"def test_copy(self):\n"}
+{"text":"def repl_op_iexpr(self,op,opname,x,y):\n"}
+{"text":"def start_test(self):\n"}
+{"text":"def get_parser(self,prog_name):\n"}
+{"text":"def get_group(self,uri = None,desired_class = gdata.contacts.data.GroupEntry,auth_token = None,** kwargs):\n"}
+{"text":"def __init__(self,obj,doc = None,config = { }):\n"}
+{"text":"def io_master(self):\n"}
+{"text":"def _multi_take(self,tup):\n"}
+{"text":"def validate_redirect_uri(self,client_key,redirect_uri):\n"}
+{"text":"def add_edge(self,u,v,key = None,attr_dict = None,** attr):\n"}
+{"text":"def _import_from_pipe(self,pipe_r,localities,areas = None):\n"}
+{"text":"def invalidEntryTest(self,cls):\n"}
+{"text":"def force_focus(self,fx,fy):\n"}
+{"text":"def testCallSetGetArguments(self):\n"}
+{"text":"def get_smallint_type_declaration_sql(self,column):\n"}
+{"text":"def tell_parents_our_capabilities(self,ctxt):\n"}
+{"text":"def __getitem__(self,index):\n"}
+{"text":"def test02a_points(self):\n"}
+{"text":"def related_invoice(self,obj):\n"}
+{"text":"def test_tunnel_update(self):\n"}
+{"text":"def visit_SourceExpr(self,expr):\n"}
+{"text":"def clean(self,value):\n"}
+{"text":"def __init__(self,value,extra = None):\n"}
+{"text":"def http_error_407(self,req,fp,code,msg,headers):\n"}
+{"text":"def check_array_op(self,op,xp,dtype):\n"}
+{"text":"def test_arithmetic(self):\n"}
+{"text":"def exit(self):\n"}
+{"text":"def poll(self):\n"}
+{"text":"def __eq__(self,other):\n"}
+{"text":"def __init__(self,config,init = True):\n"}
+{"text":"def check_component(self,comp_def):\n"}
+{"text":"def test_collections_user_has_any_permission_for(self):\n"}
+{"text":"def get_one(self,pk):\n"}
+{"text":"def __init__(self,identifier,md5,properties):\n"}
+{"text":"def sql_for_pending_references(self,model,style,pending_references):\n"}
+{"text":"def test_clone_bare(self):\n"}
+{"text":"def _aggregate_series_pure_python(self,obj,func):\n"}
+{"text":"def _log_original_error(self,exc_info,instance_uuid):\n"}
+{"text":"def answers(self,other):\n"}
+{"text":"def lsb(self):\n"}
+{"text":"def get_size(self):\n"}
+{"text":"def set_protocol(self,v):\n"}
+{"text":"def setUp(self):\n"}
+{"text":"def __init__(self,size_arr,rate_arr):\n"}
+{"text":"def get_allowed_plugins(self):\n"}
+{"text":"def models(self,models):\n"}
+{"text":"def storage(self):\n"}
+{"text":"def update_ebs_info(self):\n"}
+{"text":"def testBasicContains(self):\n"}
+{"text":"def test_post_fallback_flatpage(self):\n"}
+{"text":"def create_LaTeX(self):\n"}
+{"text":"def add_package(self,source = None):\n"}
+{"text":"def test_simple_tag_escaping_autoescape_off(self):\n"}
+{"text":"def test_parse_exception(self):\n"}
+{"text":"def add_feed(self,feed):\n"}
+{"text":"def test_node_set_console_mode(self):\n"}
+{"text":"def setUp(self):\n"}
+{"text":"def __init__(self,string):\n"}
+{"text":"def _createTroves(self,troveAndPathList):\n"}
+{"text":"def SMax_BoxInput(self):\n"}
+{"text":"def player_new_from_media(self):\n"}
+{"text":"def valid_longitude(self,l):\n"}
+{"text":"def test_countTestCases_nested(self):\n"}
+{"text":"def onMouseMove(self,sender,x,y):\n"}
+{"text":"def test_fire(self,salt_utils_event):\n"}
+{"text":"def test_memset(self):\n"}
+{"text":"def __init__(self,name,default,enum,depends_on,fmt = \"H\"):\n"}
+{"text":"def get_parse_map(self):\n"}
+{"text":"def test_supportsAllInterfaces(self):\n"}
+{"text":"def test_time_entry_custom_str(self):\n"}
+{"text":"def __init__(self,connection = None):\n"}
+{"text":"def get_process_num_threads(self):\n"}
+{"text":"def test_missing_data(self):\n"}
+{"text":"def test_varargs0(self):\n"}
+{"text":"def _train_parse_args(self,args,kwargs):\n"}
+{"text":"def ParsePythonFlags(self,start_line = 0):\n"}
+{"text":"def format_output(self,name,rendered_widgets):\n"}
+{"text":"def get_blogs(self,user_id = 'default',auth_token = None,desired_class = gdata.blogger.data.BlogFeed,** kwargs):\n"}
+{"text":"def development_dir(self):\n"}
+{"text":"def page_context(self):\n"}
+{"text":"def __init__(self,element):\n"}
+{"text":"def facets(self):\n"}
+{"text":"def test_earlyProcessTermination(self):\n"}
+{"text":"def ignoreExt(self,ext):\n"}
+{"text":"def close(self):\n"}
+{"text":"def divideTask(self,superpipeline,task,divisions,divisionNode):\n"}
+{"text":"def test_jobs(self,request_mock):\n"}
+{"text":"def test_parse_uri_unicode(self):\n"}
+{"text":"def getlist(self,key):\n"}
+{"text":"def assign_output_time(self,window,input_timestamp):\n"}
+{"text":"def exportFile(self,obj,file_name):\n"}
+{"text":"def test_bodyDataFinishedBeforeStartProducing(self):\n"}
+{"text":"def test_conversion_rate(self):\n"}
+{"text":"def createScale(self):\n"}
+{"text":"def add(self,w):\n"}
+{"text":"def _rewrite_module_path(self,modname):\n"}
+{"text":"def run(self,message,channel,user = None,whisper = False):\n"}
+{"text":"def __exit__(self,* exc_info):\n"}
+{"text":"def error_function(self,y_prediction,y_truth):\n"}
+{"text":"def testListStrFields(self):\n"}
+{"text":"def all_instances(self):\n"}
+{"text":"def run(self):\n"}
+{"text":"def add_peeled_images(self,sed = True,image = True):\n"}
+{"text":"def __init__(self,* args,** kw):\n"}
+{"text":"def GetAllLibraries(self):\n"}
+{"text":"def __init__(self,relation_key,_scheme,sample_size,is_pct,sample_type):\n"}
+{"text":"def getFirmwareVersion(self,idNum = None):\n"}
+{"text":"def image_filename(self):\n"}
+{"text":"def _fetch_asset_data_for(self,asset):\n"}
+{"text":"def test_builtin_function(self):\n"}
+{"text":"def getVoices(self):\n"}
+{"text":"def dclick_extension_point(self,obj):\n"}
+{"text":"def category_uni_word(self,ctx):\n"}
+{"text":"def __init__(self,* args,** kwargs):\n"}
+{"text":"def test_file_open(self,* args,** kwargs):\n"}
+{"text":"def access_resource(self,oauth_request):\n"}
+{"text":"def __init__(self):\n"}
+{"text":"def __init__(self,response):\n"}
+{"text":"def next_item(self):\n"}
+{"text":"def __init__(self,sentinel):\n"}
+{"text":"def test_cycle27(self):\n"}
+{"text":"def show_cursor(self):\n"}
+{"text":"def __init__(self):\n"}
+{"text":"def write(self,oprot):\n"}
+{"text":"def explore(self,datasource_type,datasource_id):\n"}
+{"text":"def render(self):\n"}
+{"text":"def get_context_data(self,** kwargs):\n"}
+{"text":"def tearDown(self,* args,** kwargs):\n"}
+{"text":"def wait(self):\n"}
+{"text":"def render(self,context):\n"}
+{"text":"def value_to_property(self,value):\n"}
+{"text":"def test___reset(self):\n"}
+{"text":"def __init__(self,login = None,full_name = None,email = None,avatar = None,role = None):\n"}
+{"text":"def get_ResourceOwnerId(self):\n"}
+{"text":"def _resetBuffers(self):\n"}
+{"text":"def test_strategy(self):\n"}
+{"text":"def __init__(self,session,** kwargs):\n"}
+{"text":"def get_container(self,container,headers = None,prefix = None,delimiter = None,marker = None,end_marker = None,limit = None,query = None,cdn = False,decode_json = True):\n"}
+{"text":"def get_id(self):\n"}
+{"text":"def test_project_scoped_federated_auth(self):\n"}
+{"text":"def consume_count(self):\n"}
+{"text":"def test_simple(self):\n"}
+{"text":"def get_locale(self):\n"}
+{"text":"def setWidget(self,widget):\n"}
+{"text":"def reset(self):\n"}
+{"text":"def SetUpCallHooks(self):\n"}
+{"text":"def connect(self,username,password = None):\n"}
+{"text":"def test_patch_dataset(self):\n"}
+{"text":"def lookup_root_vhd_path(self,instance_name):\n"}
+{"text":"def test_method6(self):\n"}
+{"text":"def __init__(self,root):\n"}
+{"text":"def __call__(self,r):\n"}
+{"text":"def suspend(self):\n"}
+{"text":"def _get_byteStream(self):\n"}
+{"text":"def testparened(self):\n"}
+{"text":"def test_degree_mixing_matrix_multigraph(self):\n"}
+{"text":"def total_before_discounts_excl_tax(self):\n"}
+{"text":"def interfaces(self,default):\n"}
+{"text":"def test_objective_validation(self):\n"}
+{"text":"def test_noCanceller(self):\n"}
+{"text":"def ipmi_set_lan(self,data,channel = 1):\n"}
+{"text":"def test_remove_console_handler(self):\n"}
+{"text":"def _IReadMapping__stateDict(self):\n"}
+{"text":"def start_tracking(self,view,command_name = None):\n"}
+{"text":"def test_it(self):\n"}
+{"text":"def unmap_trigger(self,session,trigger_source,trigger_destination):\n"}
+{"text":"def storage_size_string(self):\n"}
+{"text":"def __setattr__(self,name,value):\n"}
+{"text":"def _makeHelperReactor(self):\n"}
+{"text":"def count(self,request,ip = True,field = None,period = 60):\n"}
+{"text":"def test_fitness_function_sets_fitness_on_genome(self):\n"}
+{"text":"def testMultiplePies(self):\n"}
+{"text":"def _create_dvr_mac_address(self,context,host):\n"}
+{"text":"def _get_chunked_words(self,grid,chunk_types,tagset = None):\n"}
+{"text":"def update(self,notes = None,hours = None,project_id = None,task_id = None):\n"}
+{"text":"def _show2(self):\n"}
+{"text":"def is_recursive_relationship(self):\n"}
+{"text":"def test_parse_bad_spec_non_normalized(self):\n"}
+{"text":"def test_from_json_unrecognized(self):\n"}
+{"text":"def __init__(self,** options):\n"}
+{"text":"def _retryPendingChildOperations(self,childInstance,actualAddress):\n"}
+{"text":"def test_download_debug(self):\n"}
+{"text":"def _deregister_mute(self,tag):\n"}
+{"text":"def insert_piwik(self,request,response):\n"}
+{"text":"def form_valid(self,form):\n"}
+{"text":"def _parse_datetime_element(self,element):\n"}
+{"text":"def test_without_app_root(self):\n"}
+{"text":"def test_invalid_type(self):\n"}
+{"text":"def execute_sql(self,result_type = compiler.SINGLE):\n"}
+{"text":"def AddAgencyObject(self,agency,problem_reporter = None,validate = False):\n"}
+{"text":"def _get_filter_function(self,filter):\n"}
+{"text":"def test_keyerror_str(self):\n"}
+{"text":"def get_web(self):\n"}
+{"text":"def test_copy(self):\n"}
+{"text":"def AddListCtrl(self,listCtrl,title = None):\n"}
+{"text":"def begin(self,channel):\n"}
+{"text":"def frame_ping(self,flags,data):\n"}
+{"text":"def test_expm(self):\n"}
+{"text":"def update(self):\n"}
+{"text":"def enable(self,properties):\n"}
+{"text":"def burst(self,value):\n"}
+{"text":"def generate_token(self,user_id):\n"}
+{"text":"def __missing__(self,key):\n"}
+{"text":"def test_const_array_3d(self):\n"}
+{"text":"def set_status_bar(self):\n"}
+{"text":"def translate(self):\n"}
+{"text":"def test99_EVPNMACCreatePackUnpack(self):\n"}
+{"text":"def __init__(self,value,text):\n"}
+{"text":"def test_nsinfo_collect(self):\n"}
+{"text":"def __init__(self,callback):\n"}
+{"text":"def test_longlong_switch(self):\n"}
+{"text":"def isdir(self,path):\n"}
+{"text":"def wrap(self,obj):\n"}
+{"text":"def test_antider_neg(self):\n"}
+{"text":"def _get_last_error(self):\n"}
+{"text":"def test_base_command_no_label(self):\n"}
+{"text":"def add_task_name(self,x):\n"}
+{"text":"def __delattr__(self,name):\n"}
+{"text":"def test_expires(self):\n"}
+{"text":"def is_enabled(self,external):\n"}
+{"text":"def test_publish_default_args(self):\n"}
+{"text":"def test_late_contributions(self):\n"}
+{"text":"def test_builtin_with_bad_environment(self):\n"}
+{"text":"def _propsetmidleft(self,value):\n"}
+{"text":"def __init__(self,initial_state,type,name = '',description = ''):\n"}
+{"text":"def freeze(self):\n"}
+{"text":"def getParentNode(self,node):\n"}
+{"text":"def test_module_with_different_metric_logs(self):\n"}
+{"text":"def test_data_with_embed(self):\n"}
+{"text":"def _setContent(self):\n"}
+{"text":"def testModificationTimes(self):\n"}
+{"text":"def test_A_Breathing(self):\n"}
+{"text":"def restore(self):\n"}
+{"text":"def test_affiliations(self):\n"}
+{"text":"def __init__(self,extra_context,singular,plural = None,countervar = None,counter = None):\n"}
+{"text":"def __delitem__(self,idx):\n"}
+{"text":"def evalArcQname(self,xpCtx,fact):\n"}
+{"text":"def decode(self,strio,length = None):\n"}
+{"text":"def update(self,context,image_id,metadata,data = None):\n"}
+{"text":"def makeMIME(self):\n"}
+{"text":"def test_invalidHashedEntry(self):\n"}
+{"text":"def test_default_users(self):\n"}
+{"text":"def convert_entityref(self,name):\n"}
+{"text":"def testLsreg1(self):\n"}
+{"text":"def poll(self,_deadstate = None):\n"}
+{"text":"def checkargs(self,emi,zone,credpath = None,config = None,password = None):\n"}
+{"text":"def on_message(self,message):\n"}
+{"text":"def __init__(self):\n"}
+{"text":"def _do_search(self):\n"}
+{"text":"def Run(self):\n"}
+{"text":"def __repr__(self):\n"}
+{"text":"def my_view(self,request):\n"}
+{"text":"def start_cloudera_manager(self,cluster):\n"}
+{"text":"def test_union_overlap(self):\n"}
+{"text":"def com_en_rename(self,* args,** kwargs):\n"}
+{"text":"def GetClosable(self):\n"}
+{"text":"def __str__(self):\n"}
+{"text":"def test_replace_append(self):\n"}
+{"text":"def take_slice_of_analogsignalarray_by_channelindex(self,channel_indexes = None):\n"}
+{"text":"def fromAdminConfig(self,value):\n"}
+{"text":"def get_review_request(self):\n"}
+{"text":"def changename(self,irc,msg,args,user,newname,password):\n"}
+{"text":"def setupWindowsGroupAuthorization(self,portlist = None):\n"}
+{"text":"def addParseAction(self,* fns,** kwargs):\n"}
+{"text":"def test_handle_sighup(self):\n"}
+{"text":"def _escape(self,txt):\n"}
+{"text":"def setUp(self):\n"}
+{"text":"def register_os_getcwd(self):\n"}
+{"text":"def set(self,key,obj):\n"}
+{"text":"def dependency_handle(self,attribs):\n"}
+{"text":"def get_fuzzy_match(self):\n"}
+{"text":"def cameraStopPreview(self):\n"}
+{"text":"def test_no_such_node(self):\n"}
+{"text":"def test_uniqueitems_pass(self):\n"}
+{"text":"def test_write_read(self,setup):\n"}
+{"text":"def close(self):\n"}
+{"text":"def test_coverageReport(self):\n"}
+{"text":"def is_uploadable_mimetype(self,mimetype):\n"}
+{"text":"def __eq__(self,r):\n"}
+{"text":"def test_get_value(self):\n"}
+{"text":"def __init__(self,parent):\n"}
+{"text":"def _invoke(self,args,remote,autoraise):\n"}
+{"text":"def setfield(self,field,value):\n"}
+{"text":"def vlm_del_media(self,psz_name):\n"}
+{"text":"def getInfo(self):\n"}
+{"text":"def __init__(self,zone = None):\n"}
+{"text":"def test_raising_exceptions(self):\n"}
+{"text":"def _clear_readahead_buf(self):\n"}
+{"text":"def test_cannotSetDateTime(self):\n"}
+{"text":"def incr(self,model,columns,filters,extra = None):\n"}
+{"text":"def get_size(self,project_id):\n"}
+{"text":"def turn_on(self,sink_name,source_name):\n"}
+{"text":"def getMagnet(self):\n"}
+{"text":"def notifyOnDisconnect(self,callback):\n"}
+{"text":"def __init__(self):\n"}
+{"text":"def fit(self,results,train_true):\n"}
+{"text":"def __init__(self,** kwargs):\n"}
+{"text":"def flat_dim(self):\n"}
+{"text":"def setTickLength(self,tickLength):\n"}
+{"text":"def getprojecthooks(self,project_id,page = 1,per_page = 20):\n"}
+{"text":"def tearDown(self):\n"}
+{"text":"def depart_legend(self,node):\n"}
+{"text":"def input(self,message,** unused_kwargs):\n"}
+{"text":"def getFirstInnerAlignedLabel(self):\n"}
+{"text":"def run_parse_callbacks(self):\n"}
+{"text":"def clean_avatar(self):\n"}
+{"text":"def __repr__(self):\n"}
+{"text":"def __init__(self,subject = '',body = '',from_email = None,to = None,bcc = None,connection = None,attachments = None,headers = None,alternatives = None):\n"}
+{"text":"def addSuccess(self,test):\n"}
+{"text":"def is_valid_filter(self):\n"}
+{"text":"def delete_bucket(self,bucket,headers = None):\n"}
+{"text":"def writeToFile(self,stream):\n"}
+{"text":"def dispatch_request(self,* args,** kwargs):\n"}
+{"text":"def test_get_form_kwargs(self,super_mock):\n"}
+{"text":"def write(self,text):\n"}
+{"text":"def set_cookie(self,* args,** kwargs):\n"}
+{"text":"def test_get_quotas_no_sync_has_sync_resource(self):\n"}
+{"text":"def _fix(self,context):\n"}
+{"text":"def test_concated_gte_and_gt_operator_generates_the_right_expression_for_the_greater_than_second_lookup(self):\n"}
+{"text":"def _callback(self):\n"}
+{"text":"def test_form(self):\n"}
+{"text":"def get_definitions(self,headword):\n"}
+{"text":"def _connect(self):\n"}
+{"text":"def ByteSizePartial(self):\n"}
+{"text":"def __getstate__(self):\n"}
+{"text":"def test_verify_baseUrl_scheme_ok(self):\n"}
+{"text":"def add_item_elements(self,handler,item):\n"}
+{"text":"def delete_service(self,name,* args,** kwargs):\n"}
+{"text":"def __str__(self):\n"}
+{"text":"def RemoveMapping(self,filename):\n"}
+{"text":"def setUp(self):\n"}
+{"text":"def test_302_process_results_with_lists_consecutive(self):\n"}
+{"text":"def test_get_shared_ip_groups(self):\n"}
+{"text":"def get_LAST(self,group_name,current_id):\n"}
+{"text":"def __str__(self):\n"}
+{"text":"def section(self,name):\n"}
+{"text":"def compute(self):\n"}
+{"text":"def create_new_attribute(self,name,value):\n"}
+{"text":"def shot_clock(self):\n"}
+{"text":"def test_no__patterns(self):\n"}
+{"text":"def format(self,value):\n"}
+{"text":"def test_1_flipped_bit(self):\n"}
+{"text":"def psetex(self,name,time_ms,value):\n"}
+{"text":"def check_for_updates(self,widget):\n"}
+{"text":"def retrieveValues(self,* args):\n"}
+{"text":"def test_one(self):\n"}
+{"text":"def formatmonthname(self,theyear,themonth,width,withyear = True):\n"}
+{"text":"def run(self):\n"}
+{"text":"def update(self):\n"}
+{"text":"def getMessageSignature(self,message):\n"}
+{"text":"def transform_IndexFilter(self,expr):\n"}
+{"text":"def ret(self):\n"}
+{"text":"def __init__(self,name,addr):\n"}
+{"text":"def __init__(self,db_dir):\n"}
+{"text":"def isallowed(self,root,url):\n"}
+{"text":"def test_source_a_manager(self):\n"}
+{"text":"def test_runforever_select_eintr(self):\n"}
+{"text":"def setUp(self):\n"}
+{"text":"def extension(self,extension,option = 0,output = 0):\n"}
+{"text":"def test_axis_labels_passed_on_by_default(self):\n"}
+{"text":"def to_python(self,value):\n"}
+{"text":"def test_document_service_no_waiter(self):\n"}
+{"text":"def update(self,other):\n"}
+{"text":"def _wrap_value(self,value):\n"}
+{"text":"def Write(self):\n"}
+{"text":"def _makeCurrent(self):\n"}
+{"text":"def item_title(self,item):\n"}
+{"text":"def testJohnAgeWithDate(self):\n"}
+{"text":"def __init__(self,label,chunks):\n"}
+{"text":"def __init__(self,q):\n"}
+{"text":"def get_menu(self,name):\n"}
+{"text":"def testAny(self):\n"}
+{"text":"def __getitem__(self,value):\n"}
+{"text":"def release_output(self):\n"}
+{"text":"def test_thread_local_storage_dict(self):\n"}
+{"text":"def __getattr__(self,attr):\n"}
+{"text":"def _create_plot(self):\n"}
+{"text":"def test_no_iteritems(self):\n"}
+{"text":"def is_ubuntu(self):\n"}
+{"text":"def testRepr(self):\n"}
+{"text":"def main(self,cmd_numbers = ''):\n"}
+{"text":"def test_categorical_index_nonscalar_label(self):\n"}
+{"text":"def __init__(self,user_data = None):\n"}
+{"text":"def suggest_primary_member(self):\n"}
+{"text":"def test__exists(self):\n"}
+{"text":"def test_localized_timeField_with_inputformat(self):\n"}
+{"text":"def running(self):\n"}
+{"text":"def test_stat(self):\n"}
+{"text":"def test_save_handler_keep_history(self):\n"}
+{"text":"def test_equality(self):\n"}
+{"text":"def __init__(self,* args,** kw):\n"}
+{"text":"def finalize_options(self):\n"}
+{"text":"def Clear(self):\n"}
+{"text":"def test_function_equality(self,tmpdir):\n"}
+{"text":"def get_worker_for_task(self,task):\n"}
+{"text":"def testUnconnectedCustomBoxInput(self):\n"}
+{"text":"def flush(self,ts,interval):\n"}
+{"text":"def __div__(self,other):\n"}
+{"text":"def test_not_include_but_create(self):\n"}
+{"text":"def __str__(self):\n"}
+{"text":"def op_RAISE_VARARGS(self,info,inst):\n"}
+{"text":"def __getattr__(self,name):\n"}
+{"text":"def iterator(self):\n"}
+{"text":"def job_read_inputs(self):\n"}
+{"text":"def jordan_cell(self,eigenval,n):\n"}
+{"text":"def apply_bindings(self,keydefs = None):\n"}
+{"text":"def gen_rng(self,seed = None):\n"}
+{"text":"def test_do_cluster_delete(self):\n"}
+{"text":"def set_recache_protection(self,mode = True):\n"}
+{"text":"def render_reducer(self):\n"}
+{"text":"def method_without_arg(self):\n"}
+{"text":"def get_url(self,only_site = False):\n"}
+{"text":"def __init__(self,nodes,contexts = None,dtype = object,sparse_fill_value = None,filter = False,start_date = None):\n"}
+{"text":"def __init__(self):\n"}
+{"text":"def poll(self,wait = 60,vtimeout = 60):\n"}
+{"text":"def process_list_sentry_roles_by_group(self,seqid,iprot,oprot):\n"}
+{"text":"def close(self):\n"}
+{"text":"def receiveMessage(self,msg,sender):\n"}
+{"text":"def searchsorted(self,key,side = 'left',sorter = None):\n"}
+{"text":"def get_geom_placeholder(self,f,value):\n"}
+{"text":"def get_relation_type(self,relation_type):\n"}
+{"text":"def test__pretty(self):\n"}
+{"text":"def current_scene(self):\n"}
+{"text":"def addRightSMarker(self,edgeTup,anteTgts):\n"}
+{"text":"def ComputeStats(self):\n"}
+{"text":"def get_value(self):\n"}
+{"text":"def get_attrs(self,item_list,user):\n"}
+{"text":"def __init__(self,default = None):\n"}
+{"text":"def key_down(self,key,code):\n"}
+{"text":"def test_repr(self):\n"}
+{"text":"def set(self,key,value):\n"}
+{"text":"def connectionMade(self):\n"}
+{"text":"def get_ResourceOwnerId(self):\n"}
+{"text":"def test_builtin_with_bad_settings(self):\n"}
+{"text":"def GetMultiNodeInfo(self,node_uuids):\n"}
+{"text":"def __init__(self,service):\n"}
+{"text":"def __init__(self):\n"}
+{"text":"def to_file(self,path,delimiter = None,mode = 'w',buffering = - 1,encoding = None,errors = None,newline = None):\n"}
+{"text":"def sendCustom(self,position,force,velocity,mode):\n"}
+{"text":"def allNodesDependingOnNode(self,dependingOnNode,recursion = True):\n"}
+{"text":"def __and__(self,other):\n"}
+{"text":"def iter_tags(self):\n"}
+{"text":"def set_value_explicit(self,value = None,data_type = TYPE_STRING):\n"}
+{"text":"def test_dimensions_of_cached_image(self):\n"}
+{"text":"def test_simple(self):\n"}
+{"text":"def _get_filename(self,request,data):\n"}
+{"text":"def set(self,key,value):\n"}
+{"text":"def pack(self):\n"}
+{"text":"def to_json(self):\n"}
+{"text":"def test_type_function_call_only_once(self):\n"}
+{"text":"def add(self,item):\n"}
+{"text":"def test_regression_12876(self):\n"}
+{"text":"def test_compile3(self):\n"}
+{"text":"def snoop(self,peers,callback = lambda:None):\n"}
+{"text":"def createChannel(self,port):\n"}
+{"text":"def test_rounds(self):\n"}
+{"text":"def test_django_tags(self):\n"}
+{"text":"def sec(self,use_uncompressed = None):\n"}
+{"text":"def __unicode__(self):\n"}
+{"text":"def c_buffer_gather(self,size,idx,buf_name):\n"}
+{"text":"def test_SRVNoService(self):\n"}
+{"text":"def read(self,** kwargs):\n"}
+{"text":"def can_handle_url(self,url):\n"}
+{"text":"def __init__(self,ilastik,instance = None):\n"}
+{"text":"def _enabled_changed(self,enabled):\n"}
+{"text":"def is_touched(self,pin):\n"}
+{"text":"def __set__(self,instance,value):\n"}
+{"text":"def forURL(self,url):\n"}
+{"text":"def test_get_by_fixed_ip(self):\n"}
+{"text":"def test_load_two_levels_collection_to_collection(self):\n"}
+{"text":"def _check_if_exists(self,storage,path):\n"}
+{"text":"def __init__(self,capabilities):\n"}
+{"text":"def __init__(self,app = None):\n"}
+{"text":"def clear_caches(self):\n"}
+{"text":"def select_subprotocol(self,subprotocols):\n"}
+{"text":"def delete(self):\n"}
+{"text":"def specialize_call(self,hop):\n"}
+{"text":"def undo_aggregate_operation(self,context,op,aggregate,host,set_error):\n"}
+{"text":"def populate_class_members(self,element_cls,prop_name):\n"}
+{"text":"def min_field_length(self,fieldname):\n"}
+{"text":"def test_tcpTimeout(self):\n"}
+{"text":"def partial(self,base):\n"}
+{"text":"def __eq__(self,other):\n"}
+{"text":"def __init__(self,view):\n"}
+{"text":"def error(self,* args,** kwargs):\n"}
+{"text":"def rebuild_from_transactions(self,transactions,rebuild_transaction,unarchived_form_id = None):\n"}
+{"text":"def score(self,X,y,** kwargs):\n"}
+{"text":"def execute(self):\n"}
+{"text":"def test_inherited_nullable_exclude(self):\n"}
+{"text":"def project_vector(self,instance_vector):\n"}
+{"text":"def currentTabChanged(self,index):\n"}
+{"text":"def _backwardImplementation(self,outerr,inerr,inbuf):\n"}
+{"text":"def test_replace_upper(self):\n"}
+{"text":"def has_perm(self,perm,obj = None):\n"}
+{"text":"def TryMerge(self,d):\n"}
+{"text":"def _mkpath(self,* p):\n"}
+{"text":"def load_collection(self,data):\n"}
+{"text":"def backwards(self,orm):\n"}
+{"text":"def readlink(self,path):\n"}
+{"text":"def checkConnect(self):\n"}
+{"text":"def test_load_default_bool(self):\n"}
+{"text":"def __init__(self,data):\n"}
+{"text":"def __init__(self,fs,img):\n"}
+{"text":"def __init__(self,devpath,mode,max_speed,bit_order = \"msb\",bits_per_word = 8,extra_flags = 0):\n"}
+{"text":"def getStripped(self,attrName):\n"}
+{"text":"def answered(self,check):\n"}
+{"text":"def notify_on_autoadd_children(self,request,conf,children):\n"}
+{"text":"def test_param_allow_downcast_vector_floatX(self):\n"}
+{"text":"def setUp(self):\n"}
+{"text":"def tzname(self,dt):\n"}
+{"text":"def depart_versionmodified(self,node):\n"}
+{"text":"def set_OwnerId(self,OwnerId):\n"}
+{"text":"def copy(self):\n"}
+{"text":"def test_is_equal_to_ignoring_time(self):\n"}
+{"text":"def testGetMaster(self):\n"}
+{"text":"def getHeight(self):\n"}
+{"text":"def validate(self,username,password):\n"}
+{"text":"def testGetNeighboursByEdgeType(self):\n"}
+{"text":"def __init__(self,photo_id = None):\n"}
+{"text":"def __init__(self):\n"}
+{"text":"def print_stats(self,sort = - 1):\n"}
+{"text":"def _get_instance_nw_info(self,context,instance,** kwargs):\n"}
+{"text":"def run(self,current_project_only = True):\n"}
+{"text":"def sort(self,searcher,q,sortedby,reverse = False,allow = None,restrict = None):\n"}
+{"text":"def _OnRightDClick(self,evt):\n"}
+{"text":"def setContents(self,strValue,silent = True):\n"}
+{"text":"def __bool__(self):\n"}
+{"text":"def __setattr__(self,name,value):\n"}
+{"text":"def kill(self):\n"}
+{"text":"def _doRespNoDisco(self,exp_resp):\n"}
+{"text":"def name(self):\n"}
+{"text":"def replyReceived(self,reply):\n"}
+{"text":"def _get_scheduler_aggregator_per_reservation(self,reservation_id):\n"}
+{"text":"def test_action_list_limit(self):\n"}
+{"text":"def _confirm_resize(self,context,instance,quotas,migration = None):\n"}
+{"text":"def test_conflicting_file_appends_higher_number(self):\n"}
+{"text":"def __str__(self,prefix = \"\",printElemNumber = 0):\n"}
+{"text":"def clean_password2(self):\n"}
+{"text":"def test_authorize_succeeds_for_user_role_in_roles(self):\n"}
+{"text":"def __iter__(self):\n"}
+{"text":"def test_int_allowed(self):\n"}
+{"text":"def test_create_port_tags(self):\n"}
+{"text":"def test_noFollowRedirect(self):\n"}
+{"text":"def move_point(self):\n"}
+{"text":"def get_app(self):\n"}
+{"text":"def _eval_transpose(self):\n"}
+{"text":"def get_index_for_offset(self,off):\n"}
+{"text":"def __getattr__(self,name):\n"}
+{"text":"def is_private(self):\n"}
+{"text":"def args_kwargs(self):\n"}
+{"text":"def test_top_node(self):\n"}
+{"text":"def _callFUT(self,event):\n"}
+{"text":"def get_all(self):\n"}
+{"text":"def raw_text(self,node):\n"}
+{"text":"def _ekey(self,key):\n"}
+{"text":"def __unicode__(self):\n"}
+{"text":"def _to_nodes(self,object):\n"}
+{"text":"def run(self,edit,pos,text):\n"}
+{"text":"def _iter_impl(self,original_state,giveup):\n"}
+{"text":"def map_partitions(self,func,columns = no_default,* args,** kwargs):\n"}
+{"text":"def create_port_postcommit(self,context):\n"}
+{"text":"def get_id_v2(self):\n"}
+{"text":"def load_module(self,fullname):\n"}
+{"text":"def __init__(self,multidict):\n"}
+{"text":"def _refresh_model_trigger(self,change):\n"}
+{"text":"def test_args_kw(self):\n"}
+{"text":"def _check(self,e,caller,invoker1,invoker2):\n"}
+{"text":"def restat(self,reraise = True):\n"}
+{"text":"def run_srb(self,* argv):\n"}
+{"text":"def testGetIpAddress(self):\n"}
+{"text":"def stop_receive_thread(self,stop_measurement = False):\n"}
+{"text":"def test_get_peer_cert_chain_wrong_args(self):\n"}
+{"text":"def test_fab_views(self):\n"}
+{"text":"def test_compute_qname(self):\n"}
+{"text":"def on_stream_authorized(self,auth):\n"}
+{"text":"def test_encrypt_invalid_compression_error(self):\n"}
+{"text":"def open(self,name):\n"}
+{"text":"def init(self,modelDocument):\n"}
+{"text":"def rtype_call(self,hop):\n"}
+{"text":"def __str__(self):\n"}
+{"text":"def test_getObjectMember_4(self):\n"}
+{"text":"def endElement(self,name):\n"}
+{"text":"def _GetColors(self,chart):\n"}
+{"text":"def __repr__(self):\n"}
+{"text":"def test_no_parent_callable_lookup(self):\n"}
+{"text":"def enable_relationship_loading(self,obj):\n"}
+{"text":"def prepare_tags_exact(self,object):\n"}
+{"text":"def __init__(self,** kwargs):\n"}
+{"text":"def test_unregister(self):\n"}
+{"text":"def pen(self,width = None,rgb = None,alpha = None):\n"}
+{"text":"def __mod__(self,other):\n"}
+{"text":"def help_create_exchange(self):\n"}
+{"text":"def __init__(self,app,rule,method,callback,name = None,plugins = None,skiplist = None,** config):\n"}
+{"text":"def __init__(self,input_layer,pool_size,epsilon = 1e-12):\n"}
+{"text":"def __init__(self,* args,** kwargs):\n"}
+{"text":"def test_memmove(self):\n"}
+{"text":"def _convert_sort(self,sort):\n"}
+{"text":"def c_support_code_struct(self,node,name):\n"}
+{"text":"def executeCommand(self,command):\n"}
+{"text":"def preferred_height(self,cli,width,max_available_height):\n"}
+{"text":"def _output_manifest_project_extras(self,p,e):\n"}
+{"text":"def assign_perm(self,perm,user,obj):\n"}
+{"text":"def try_trigger_before_first_request_functions(self):\n"}
+{"text":"def _get_network(self):\n"}
+{"text":"def on_update(self):\n"}
+{"text":"def read(self,n = 4096):\n"}
+{"text":"def extent(self):\n"}
+{"text":"def test_Frame_buildMessage(self):\n"}
+{"text":"def process(self,request,render_options,operation,data):\n"}
+{"text":"def setUp(self):\n"}
+{"text":"def get_or_create_struct(self,key):\n"}
+{"text":"def add_other_cflags(self,flags):\n"}
+{"text":"def has_perm(self,user_obj,perm,obj = None):\n"}
+{"text":"def tearDown(self):\n"}
+{"text":"def __init__(self,resources,template):\n"}
+{"text":"def options(self,* args,** kwargs):\n"}
+{"text":"def __init__(self,freeVariable,contextName):\n"}
+{"text":"def test_non_tensorial_input(self):\n"}
+{"text":"def test_non_relational_field(self):\n"}
+{"text":"def __str__(self):\n"}
+{"text":"def test_change_back_short(self):\n"}
+{"text":"def get(self,page = None):\n"}
+{"text":"def TryMerge(self,d):\n"}
+{"text":"def __init__(self,length,hw_src,data):\n"}
+{"text":"def bench_xpath_single(self,root):\n"}
+{"text":"def writeln(self,arg = None):\n"}
+{"text":"def _populate_fields(self):\n"}
+{"text":"def guess(self,data,** kwargs):\n"}
+{"text":"def get_length(self,item):\n"}
+{"text":"def test_parse_no_body(self):\n"}
+{"text":"def messageReceived(self,remoteID,msg,msgID,destID = None):\n"}
+{"text":"def test_dump_field_types(self):\n"}
+{"text":"def _ensure_obj(self):\n"}
+{"text":"def test_task_retried(self):\n"}
+{"text":"def test_id(self):\n"}
+{"text":"def test_wallclock(self):\n"}
+{"text":"def __init__(self,ip = ULTRADNS_AUTH_IP):\n"}
+{"text":"def _ppf(self,q,p):\n"}
+{"text":"def read_config(self):\n"}
+{"text":"def test_1_20_bad_fqdn(self):\n"}
+{"text":"def insert_before(self,text):\n"}
+{"text":"def __init__(self,parent,message,caption = 'Error',style =(wx.OK | wx.ICON_ERROR)):\n"}
+{"text":"def __iter__(self):\n"}
+{"text":"def test_diameter(self):\n"}
+{"text":"def __init__(self,doc,field_name,output_name = None):\n"}
+{"text":"def test_update_server(self):\n"}
+{"text":"def save(self,must_create = False):\n"}
+{"text":"def testNoHostMapping(self):\n"}
+{"text":"def testLCBeginSliceCallOrdering(self):\n"}
+{"text":"def test_simple(self,mock_push):\n"}
+{"text":"def _unregConsumer(self,ignored):\n"}
+{"text":"def _extract_security_group_rule(self,node):\n"}
+{"text":"def apply(self):\n"}
+{"text":"def get_id(self):\n"}
+{"text":"def test_non_rebin(self):\n"}
+{"text":"def getSinceVersion(self):\n"}
+{"text":"def __ne__(self,other):\n"}
+{"text":"def __init__(self,db_name,logger):\n"}
+{"text":"def make_from_match(self):\n"}
+{"text":"def start(self):\n"}
+{"text":"def test_prop_filters_defaults(self):\n"}
+{"text":"def test_entry_queryset_template_response_mixin(self):\n"}
+{"text":"def choose(self,choices):\n"}
+{"text":"def test_login(self):\n"}
+{"text":"def messages_processed(self):\n"}
+{"text":"def __ge__(self,other):\n"}
+{"text":"def TryMerge(self,d):\n"}
+{"text":"def GetSessionClass(self):\n"}
+{"text":"def test_create_api_key(self):\n"}
+{"text":"def __init__(self,request,* args,** kwargs):\n"}
+{"text":"def __repr__(self):\n"}
+{"text":"def update_locator(self,old_locator,new_locator):\n"}
+{"text":"def __init__(self,noise,noise_per_clean):\n"}
+{"text":"def get_case_sharing_groups(self,for_user_id = None):\n"}
+{"text":"def _getMapProperty(self):\n"}
+{"text":"def listxattr(self,path,namebuf,size):\n"}
+{"text":"def setUp(self):\n"}
+{"text":"def test_multiple_unique_required(self):\n"}
+{"text":"def teardown(self):\n"}
+{"text":"def var(self,ddof = 1,** kwargs):\n"}
+{"text":"def critical(self,* args,** kwargs):\n"}
+{"text":"def __repr__(self):\n"}
+{"text":"def setUp(self):\n"}
+{"text":"def GetInstanceInfo(self,instance_name,hvparams = None):\n"}
+{"text":"def test_api_pub_status_history_data(self):\n"}
+{"text":"def _build_query(self):\n"}
+{"text":"def getVersion(self):\n"}
+{"text":"def save_settings(self,widget):\n"}
+{"text":"def doc_topic(self,element,attrs):\n"}
+{"text":"def save(self,context = None):\n"}
+{"text":"def get_task_details(self,project,task_name):\n"}
+{"text":"def _parse_start_time(self,start_time_string):\n"}
+{"text":"def _get_extra_attributes(self,record):\n"}
+{"text":"def testRunWMIArtifact(self):\n"}
+{"text":"def sleep(self,sec):\n"}
+{"text":"def set_debuglevel(self,level):\n"}
+{"text":"def get_bridge_arp_table(self,bridge):\n"}
+{"text":"def test_release(self):\n"}
+{"text":"def _Close(self):\n"}
+{"text":"def test_create_container(self):\n"}
+{"text":"def test_missing_non_strict(self):\n"}
+{"text":"def test_ok_false(self):\n"}
+{"text":"def backwards(self,orm):\n"}
+{"text":"def pop(self,key,* args):\n"}
+{"text":"def rectangle(self,rect,attr = None,fill = ' '):\n"}
+{"text":"def __init__(self,from_entity,to_entity):\n"}
+{"text":"def isInside(self,anotherBox):\n"}
+{"text":"def test_auto_trigger(self):\n"}
+{"text":"def test_device_execute_timeout(self):\n"}
+{"text":"def get_columns(self,columns):\n"}
+{"text":"def test03_multipoints(self):\n"}
+{"text":"def __iter__(self):\n"}
+{"text":"def modified(self):\n"}
+{"text":"def c_compiler(self):\n"}
+{"text":"def set_done(self,i,v):\n"}
+{"text":"def test_endpoint_url_is_used_for_cloudtrail(self):\n"}
+{"text":"def test_create_build(self,openshift):\n"}
+{"text":"def test_update_without_access_ips(self):\n"}
+{"text":"def take(self,n):\n"}
+{"text":"def save(self,* args,** kwargs):\n"}
+{"text":"def test_conversion_rate_with_no_participants(self):\n"}
+{"text":"def test_expiring_price(self):\n"}
+{"text":"def fromDictionary(self,vals):\n"}
+{"text":"def __init__(self,nl):\n"}
+{"text":"def test_sed_dim_incl2(self):\n"}
+{"text":"def _log(self,msg):\n"}
+{"text":"def analyse_types(self,env):\n"}
+{"text":"def test_readwriteFile(self):\n"}
+{"text":"def _binary_buffers(self,rec):\n"}
+{"text":"def test_path_projected_graph(self):\n"}
+{"text":"def get_users(self):\n"}
+{"text":"def test_get_subnet_ids_on_router_no_subnet(self):\n"}
+{"text":"def __mul__(self,other):\n"}
+{"text":"def __init__(self,args,type,coord = None):\n"}
+{"text":"def __str__(self):\n"}
+{"text":"def __init__(self):\n"}
+{"text":"def is_link_local(self):\n"}
+{"text":"def test_01_basic(self):\n"}
+{"text":"def setComponentByPosition(self,idx,value,verifyConstraints = True):\n"}
+{"text":"def serialize_header(self,pyobj,typecode = None,** kw):\n"}
+{"text":"def set_minimum(self,minimum):\n"}
+{"text":"def __init__(self,ls_age = 0,options = 0,type_ = OSPF_UNKNOWN_LSA,id_ = '0.0.0.0',adv_router = '0.0.0.0',ls_seqnum = 0,checksum = 0,length = 0,opaque_type = OSPF_OPAQUE_TYPE_UNKNOWN,opaque_id = 0):\n"}
+{"text":"def search_by_keyword(self,q = '',feed = GENERAL_FEED,start_index = \"1\",max_results = \"10\",min_viewability = \"none\",** kwargs):\n"}
+{"text":"def _debug_headers(self,headers):\n"}
+{"text":"def test_two_access_foreign(self):\n"}
+{"text":"def decode(self,input,errors = 'strict'):\n"}
+{"text":"def test_get_query_no_decks(self):\n"}
+{"text":"def __init__(self):\n"}
+{"text":"def test_pending_to_transient_via_expunge(self):\n"}
+{"text":"def save(self,commit = True):\n"}
+{"text":"def test_url_validator(self):\n"}
+{"text":"def _compute_border_width(self,property,specified,frame):\n"}
+{"text":"def page_url(self):\n"}
+{"text":"def handle(self,* app_labels,** options):\n"}
+{"text":"def timeago(self):\n"}
+{"text":"def match(self,win):\n"}
+{"text":"def __init__(self,zornaobject,cal_date,limit,var_name):\n"}
+{"text":"def __hash__(self):\n"}
+{"text":"def test_indent(self):\n"}
+{"text":"def Get(self,ModuleName,ModuleFile,ModulePath):\n"}
+{"text":"def test_openidUpdateURLVerificationError(self):\n"}
+{"text":"def search_s(self,base,scope,filterstr = '(objectClass=*)',attrlist = None,attrsonly = 0):\n"}
+{"text":"def test_ellipkinc(self):\n"}
+{"text":"def setUp(self):\n"}
+{"text":"def _get_items(self):\n"}
+{"text":"def stop(self):\n"}
+{"text":"def as_ol(self,** attrs):\n"}
+{"text":"def input_layer(self):\n"}
+{"text":"def setUp(self):\n"}
+{"text":"def __init__(self,epoch,feature,learn_rate,rmse):\n"}
+{"text":"def _reset(self):\n"}
+{"text":"def removeUser(self,args):\n"}
+{"text":"def test_label(self):\n"}
+{"text":"def firstItemId(self):\n"}
+{"text":"def saveContext(self):\n"}
+{"text":"def start_element(self,name,attrs):\n"}
+{"text":"def seekable(self):\n"}
+{"text":"def __init__(self):\n"}
+{"text":"def testInvalidClientId(self):\n"}
+{"text":"def set_ResourceName(self,ResourceName):\n"}
+{"text":"def __init__(self,qualified = True):\n"}
+{"text":"def test__get_boot_iso_name(self):\n"}
+{"text":"def __init__(self,filename,start,stop):\n"}
+{"text":"def _get_base_url(self):\n"}
+{"text":"def physical_resource_id(self):\n"}
+{"text":"def remove(self,dashboard_id):\n"}
+{"text":"def buildAttributes(self,node,attrs,already_processed):\n"}
+{"text":"def setup(self,mixer_ref):\n"}
+{"text":"def move_up(self,index):\n"}
+{"text":"def __repr__(self):\n"}
+{"text":"def check(self,paths):\n"}
+{"text":"def no_operation(self):\n"}
+{"text":"def Get(self,limit,offset = 0,** kwargs):\n"}
+{"text":"def vi_search_again_backward(self):\n"}
+{"text":"def test_more_sheets_than_models(self):\n"}
+{"text":"def constraint(self,word):\n"}
+{"text":"def setUp(self):\n"}
+{"text":"def __init__(self,val):\n"}
+{"text":"def shortDesc(self):\n"}
+{"text":"def __init__(self,* args,** kwargs):\n"}
+{"text":"def get_field_analysis(self,field):\n"}
+{"text":"def error_function(self,y_prediction,y_truth):\n"}
+{"text":"def className(self,text):\n"}
+{"text":"def preserveAspectRatio(self):\n"}
+{"text":"def test_greater_than_operator_generates_the_right_expression_for_the_gt_week_day_lookup(self):\n"}
+{"text":"def __call__(self,value):\n"}
+{"text":"def GetSymbol(self,symbol):\n"}
+{"text":"def tokens(self):\n"}
+{"text":"def http_url(self):\n"}
+{"text":"def make_node(self,n,p):\n"}
+{"text":"def toggleItalic(self):\n"}
+{"text":"def resize(self,size_kb):\n"}
+{"text":"def update(self):\n"}
+{"text":"def _on_final_result(self,asr,hyp):\n"}
+{"text":"def close(self):\n"}
+{"text":"def natural_key(self):\n"}

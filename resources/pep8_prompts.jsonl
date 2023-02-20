@@ -1,0 +1,29 @@
+{"text":"def _load_generic(self,attrname):"}
+{"text":"def handle_WELCOME(self,line):"}
+{"text":"def hasContent_(self):"}
+{"text":"def _CToASCII(self,output_format):"}
+{"text":"def __init__(self,** kwargs):"}
+{"text":"def read(self,option):"}
+{"text":"def onShowCalendar(self,sender):"}
+{"text":"def setUp(self):"}
+{"text":"def set_stream_info(self):"}
+{"text":"def lighten(self,v):"}
+{"text":"def autocenter_cb(self,setting,option,fitsimage,info):"}
+{"text":"def test_add_permission_denied(self,isdir_mock,listdir_mock):"}
+{"text":"def _GetTargetPostbuilds(self,configname,output,output_binary,quiet = False):"}
+{"text":"def save_object_data(self,instance,name,value):"}
+{"text":"def __init__(self,code1,code2):"}
+{"text":"def test_only_auth_url(self):"}
+{"text":"def set_cursor(self,cursor):"}
+{"text":"def _set_from_protocol(self,from_protocol):"}
+{"text":"def indent(self,text,prefix = '    '):"}
+{"text":"def endWrite(self,withErrors):"}
+{"text":"def orderChanged(self,neworder):"}
+{"text":"def setUp(self):"}
+{"text":"def _prepare_core_mock_for_EndRun(self):"}
+{"text":"def test__get_filters_burst_no_burst_value_given(self):"}
+{"text":"def _do_login(self,user,password,login_method):"}
+{"text":"def addFlagData(self,data):"}
+{"text":"def on_deActivation(self):"}
+{"text":"def close_issue(self,project_id,ticket_id):"}
+{"text":"def __call__(self,* args,** kwargs):"}

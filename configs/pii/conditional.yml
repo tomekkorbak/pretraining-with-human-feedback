@@ -1,0 +1,54 @@
+dataset:
+  conditional_training_config:
+    threshold: 0.00
+    aligned_prefix: "<|aligned|>"
+    misaligned_prefix: "<|misaligned|>"
+    drop_token_fraction: 0.01
+
+tokenizer:
+  special_tokens:
+    - "<|aligned|>"
+    - "<|misaligned|>"
+
+model:
+  num_additional_tokens: 2
+
+objective:
+  name: MLE
+
+training:
+  effective_batch_size: 64
+  learning_rate: 0.0005
+
+generation:
+  force_call_on: [25177]
+  scorer_config:
+    class_name: PIIScorer
+  metrics_configs:
+    - class_name: Length
+    - class_name: NGramStats
+      n: 1
+    - class_name: NGramStats
+      n: 2
+    - class_name: SelfBlEU
+      n: 5
+  scenario_configs:
+    - name: unconditional
+      num_samples: 4096
+      prefix: "<|aligned|>"
+      generate_kwargs:
+        do_sample: true
+        max_length: 128
+        min_length: 10
+        temperature: 0.7
+        top_p: 0.9
+        top_k: 0
+        bad_words_ids: [[50257], [50258]]
+
+kl_gpt3_callback:
+  prefix: "<|aligned|>"
+  num_samples: 4096
+  max_tokens: 64
+  force_call_on: [25177]
+  gpt3_kwargs:
+    model_name: davinci

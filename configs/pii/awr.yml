@@ -1,0 +1,13 @@
+objective:
+  name: AWR
+  alpha: 0.5
+  beta: 0.1
+
+model:
+  model_kwargs:
+    value_head_config:
+      is_detached: false
+
+training:
+  learning_rate: 0.0005
+  effective_batch_size: 64

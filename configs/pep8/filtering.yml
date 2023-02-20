@@ -1,0 +1,10 @@
+dataset:
+  filter_threshold: 0.002361
+
+objective:
+  name: MLE
+
+training:
+  effective_batch_size: 64
+  learning_rate: 0.0008
+  save_steps: 25177

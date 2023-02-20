@@ -1,0 +1,1360 @@
+{"text":"def __diff_set(self, level):"}
+{"text":"def link_with_parents(self, parent, c_selectors, c_rules):"}
+{"text":"def _kernelized_dist2centers(K, n_clusters, wmemb, kernel_dist):"}
+{"text":"def mark_point(img, x, y):"}
+{"text":"def map_providers(self, query='list_nodes', cached=False):"}
+{"text":"def start_logging(gconfig, logpath):"}
+{"text":"def metaseries_description_metadata(description):"}
+{"text":"def chkaddhdr(self, line):"}
+{"text":"def DosDateTimeToTimeTuple(dosDateTime):"}
+{"text":"def find(self, target, relation):"}
+{"text":"def close(self):"}
+{"text":"def array_size(x, axis):"}
+{"text":"def write_catalogue(self, output_file, key_list=SORTED_ATTRIBUTE_LIST):"}
+{"text":"def add(self, *entries):"}
+{"text":"def simple_md2html(text, urls):"}
+{"text":"def getApplicationKeyByIndex(self, unApplicationIndex, pchAppKeyBuffer, unAppKeyBufferLen):"}
+{"text":"def minimise(routing_table, target_length):"}
+{"text":"def _list_nodes_full(location=None):"}
+{"text":"def get_lb(self):"}
+{"text":"def _validate_names(names):"}
+{"text":"def compress_repr(self) -> Optional[str]:"}
+{"text":"def positionMaxError(G, vmini, extension=0.0):"}
+{"text":"def walk(self, fn):"}
+{"text":"def read(self, encoding=None):"}
+{"text":"def main():"}
+{"text":"def mean_pairwise_similarity(\n    collection, metric=sim, mean_func=hmean, symmetric=False\n):"}
+{"text":"def get_graph(self, parse_direction=False):"}
+{"text":"def set_error_callback(cbfun):"}
+{"text":"def plot_welch_perdiogram(x, fs, nperseg):"}
+{"text":"def defaultannotator(self, annotationtype, set=None):"}
+{"text":"def delete_sched_block_instance(self, block_id):"}
+{"text":"def generate_changeset(old, new, comment=None):"}
+{"text":"def _set_hostname_domain(self):"}
+{"text":"def reduce_also(self, sitecol):"}
+{"text":"def bucket_sort(arr):"}
+{"text":"def overview(index, start, end):"}
+{"text":"def get(self, key, value):"}
+{"text":"def read_stb(library, session):"}
+{"text":"def _parse_game_date_and_location(self, boxscore):"}
+{"text":"def shared_like(param, suffix, init=0):"}
+{"text":"def index_feature(self, feature_name, tokenize=lambda x: x, structured=False):"}
+{"text":"def updates(self, id, update_id=None): # pylint: disable=invalid-name,redefined-builtin"}
+{"text":"def hostname():"}
+{"text":"def get_signature_challenge(self):"}
+{"text":"def sendMessage(self, data):\r"}
+{"text":"def _timedelta_from_elements(elements):"}
+{"text":"def to_csv(self, sep=',', path=None):"}
+{"text":"def do_region(self, x, y, w, h):"}
+{"text":"def get_stage_events(cls, crawler, stage_name, start, end, level=None):"}
+{"text":"def get_connection_string(connection=None):"}
+{"text":"def Then4(self, f, arg1, arg2, arg3, *args, **kwargs):"}
+{"text":"def reverse_lookup(self, value, condition=is_active):"}
+{"text":"def assign_node_colors_and_style(self):"}
+{"text":"def plot(args):"}
+{"text":"def setRandomParams(self):"}
+{"text":"def export(self, class_name, method_name, **kwargs):"}
+{"text":"def handle_exception(klass, exc, tb, coro=None):"}
+{"text":"def is_point(self):"}
+{"text":"def create_session(token=None):"}
+{"text":"def new(self, log_block_size):"}
+{"text":"def geometric_delay(sig, dur, copies, pamp=.5):"}
+{"text":"def to_json_dict(self, filter_fcn=None):"}
+{"text":"def usage(path):"}
+{"text":"def validate_items(all_items):"}
+{"text":"def version(self):"}
+{"text":"def signed_to_twos_comp(val: int, n_bits: int) -> int:"}
+{"text":"def _GetSubFileEntries(self):"}
+{"text":"def _to_dataframe(self):"}
+{"text":"def _smartos_zone_pkgsrc_data():"}
+{"text":"def _evaluate(self,x,y,z):"}
+{"text":"def convert(self, value, param, ctx):"}
+{"text":"def which_users_can(self, name):"}
+{"text":"def get_trail_ids(cls, event, mode):"}
+{"text":"def check_shell(cmd, shell=None):"}
+{"text":"def paste_action_callback(self, *event):"}
+{"text":"def load_config(self):"}
+{"text":"def catch_lane_change(self):"}
+{"text":"def truncate_string(text, strip_html=True, chars=255, truncate='\u2026', at_word_boundary=False):"}
+{"text":"def after_this_request(func: Callable) -> Callable:"}
+{"text":"def verb_chain_texts(self):"}
+{"text":"async def self_check(cls):"}
+{"text":"def group_by_allele(self, locus):"}
+{"text":"def gauge(self, stat, value, sample_rate=1):"}
+{"text":"def run():  #pylint: disable=too-many-locals"}
+{"text":"def set_title(self, title, subtitle=''):"}
+{"text":"def analyze(problem, Y, M=4, print_to_console=False, seed=None):\r"}
+{"text":"def add_cmd_method(self, name, method, argc=None, complete=None):"}
+{"text":"def enumerateURL(urlDict, outputFolder, startIndex= 0, maxErrors = 100):\r"}
+{"text":"def _dev_encode(param_dict,drop_name,param_name):"}
+{"text":"def is_usable(host, port, timeout=3):"}
+{"text":"def log_source(self, loglevel='INFO'):\r"}
+{"text":"def embeddedFileInfo(self, id):"}
+{"text":"def _GetBytes(partition_key):"}
+{"text":"def _legacy_status(stat):"}
+{"text":"def generate(self, format, path=None, **environmentOptions):"}
+{"text":"def synchronized(fn):"}
+{"text":"def bugs(self, from_date=DEFAULT_DATETIME, offset=None, max_bugs=MAX_BUGS):"}
+{"text":"def read_extended_header(self, groupby='field', force_type=''):"}
+{"text":"def _interpolate_stream_track_kick_aA(self):"}
+{"text":"def _dmi_parse(data, clean=True, fields=None):"}
+{"text":"def _normalize_options(self, options):"}
+{"text":"def GET_AUTH(self):"}
+{"text":"def verify1(self, credentials, session_pub_key, encrypted):"}
+{"text":"def send_message(self, msg):"}
+{"text":"def _merge_tops_merge_all(self, tops):"}
+{"text":"def format_cmd(args):"}
+{"text":"def _lclist_parallel_worker(task):"}
+{"text":"def mean_first_passage_time(adjacency):"}
+{"text":"def delete_script(delete=None):  # noqa: E501"}
+{"text":"def d2_func(x, y, z):"}
+{"text":"def load(self, path: str) -> ClassFile:"}
+{"text":"def idxmin(self, axis=0, skipna=True):"}
+{"text":"def configure_db(app):"}
+{"text":"def _missing_value_message(self, parent):"}
+{"text":"def splithost(url):"}
+{"text":"def element_to_dict(elem_to_parse, element_path=None, recurse=True):"}
+{"text":"def _other_to_dict(self, other):"}
+{"text":"def _pull_schedule(self, abbreviation, year):"}
+{"text":"def set_day(self, day: int) -> datetime:"}
+{"text":"def to_json(val, allow_pickle=False, pretty=False):"}
+{"text":"def read_omega_scan_config(source):"}
+{"text":"def get_svg_layers(svg_sources):"}
+{"text":"def store_properties(fh, props, comment=None, timestamp=True):"}
+{"text":"def as_categorical_frame(self, index, columns, name=None):"}
+{"text":"def rollforward(self, date):"}
+{"text":"def can_route(self, endpoint, method=None, **kwargs):"}
+{"text":"def generate_range(start=None, end=None, periods=None, offset=BDay()):"}
+{"text":"def login_with_resume_token(self, params):"}
+{"text":"def matching_ind(CIJ):"}
+{"text":"def putsz(self, addr, s):"}
+{"text":"def _initialize(self, path):"}
+{"text":"def _get_ip_unnumbered(self, unnumbered_type, unnumbered_name):"}
+{"text":"def _populate_basic_data(mfg_event, record):"}
+{"text":"def _get_minutes_from_last_update(self, time):"}
+{"text":"def write_memory(self, addr, value, transfer_size=32):"}
+{"text":"def auth(self, auth_type, auth_key, project_id=None):"}
+{"text":"def delete(self, row):"}
+{"text":"def flare_model(flareparams, times, mags, errs):"}
+{"text":"def LookupChain(lookup_func_list):"}
+{"text":"def parse_args():"}
+{"text":"def model(x_train, y_train, x_test, y_test):"}
+{"text":"def transceive(self, data, timeout=0.1, retries=2):"}
+{"text":"def formvalue (form, key):"}
+{"text":"def run(self):"}
+{"text":"def direction_neuron(layer_name, vec, batch=None, x=None, y=None, cossim_pow=0):"}
+{"text":"def toggleDataset(self, state, dataset=None):\r"}
+{"text":"def normalize_hex(hex_value):"}
+{"text":"def write(self, proto):"}
+{"text":"def url(self):"}
+{"text":"def __registerSeqStr():"}
+{"text":"def pressure(self):"}
+{"text":"def accept(self, visitor: \"BaseVisitor[ResultT]\") -> ResultT:"}
+{"text":"def svd(stream_list, full=False):"}
+{"text":"def list_insights_components(access_token, subscription_id, resource_group):"}
+{"text":"def transform(self, X=None, y=None):"}
+{"text":"def run_interactive(query, editor=None, just_count=False, default_no=False):"}
+{"text":"def sendDtmfTone(self, tones):"}
+{"text":"def Kdiag(self, X):"}
+{"text":"def find_ribosomal(rps, scaffolds, s2rp, min_hits, max_hits_rp, max_errors):"}
+{"text":"def _fetch_secret(pass_path):"}
+{"text":"def make_feature_dict(feature_sequence):"}
+{"text":"def get_list_values(self, name):"}
+{"text":"def execute(cls, stage, state, data, next_allowed_exec_time=None):"}
+{"text":"def write_gif_to_file(self, fp, images, durations, loops, xys, disposes):"}
+{"text":"def _similar_names(owner, attrname, distance_threshold, max_choices):"}
+{"text":"def set_value(self, value: ScalarType) -> None:"}
+{"text":"def explain_template_loading_attempts(app, template, attempts):"}
+{"text":"def start_client(self, event=None):"}
+{"text":"def linked_headlines(self, response, site_dict, check_self=False):"}
+{"text":"def make_container_tree(folders,files,path_delim=\"\/\",parse_files=True):"}
+{"text":"def fit_size(min_length: int = 0, max_length: int = None,\n             message=None) -> Filter_T:"}
+{"text":"def _get_env(self):"}
+{"text":"def extract_app_paths(values, app_should_exist=True):"}
+{"text":"def features(self, expand=False):"}
+{"text":"def GetNBits(value, nbits):"}
+{"text":"def _request(self, url, method = u\"get\", data = None, headers=None, **kwargs):"}
+{"text":"def call_from_thread(self, fn):"}
+{"text":"def partial_trace(self, qubits: Qubits) -> 'QubitVector':"}
+{"text":"def get_user_permissions(user):"}
+{"text":"def rmsd(df1, df2, heavy_only=True):"}
+{"text":"def ingest(self):"}
+{"text":"def stop(self):"}
+{"text":"def batch_processor(\n        self, zoom=None, tile=None, multi=cpu_count(), max_chunksize=1\n    ):"}
+{"text":"def display(obj, skiphidden=True, **printargs):"}
+{"text":"def start_address(self, _start_address):"}
+{"text":"def display_path_as_ul(category, using='categories.Category'):"}
+{"text":"def cvtToMag(rh, size):"}
+{"text":"def lstm_with_zoneout(hidden_size, keep_prob_c=0.5, keep_prob_h=0.95, **kwargs):"}
+{"text":"def controller_event(self, channel, contr_nr, contr_val):"}
+{"text":"def remove_tag_all(self, resource_type, resource_id, **_params):"}
+{"text":"def _make_register(self) -> BaseRegisterStore:"}
+{"text":"def _train_model(self, train_X, train_Y=None, val_X=None, val_Y=None):"}
+{"text":"def _run_opf(self, P, q, AA, ll, uu, xmin, xmax, x0, opt):"}
+{"text":"def set_autocamera(self,mode='density'):"}
+{"text":"def stage_job(self, credentials, job_details, input_files, vm_instance_name):"}
+{"text":"def repetition(extractor, bounds, *, ignore_whitespace=False):"}
+{"text":"def list_math_subtraction(a, b):\r"}
+{"text":"def _handle_state_change_msg(self, new_helper):"}
+{"text":"def fmt_to_datatype_v4(fmt, shape, array=False):"}
+{"text":"def _FormatServiceText(self, service):"}
+{"text":"def set_module_log_level(modules=None, log_level=logging.WARNING):"}
+{"text":"def encode(self):"}
+{"text":"def printAllElements(self):"}
+{"text":"def atlasdb_set_zonefile_present( zonefile_hash, present, con=None, path=None ):"}
+{"text":"def pad_width(model, table_padding=0.85, tabs_padding=1.2):"}
+{"text":"def keys_to_datetime(obj, *keys):"}
+{"text":"def drop_indexes(quiet=True, stdout=None):"}
+{"text":"def get_bucket_region(self, bucket) -> str:"}
+{"text":"def add_weekdays2df(time_df, holidays=None, holiday_is_sunday=False):"}
+{"text":"def namer(cls, imageUrl, pageUrl):"}
+{"text":"def get_default_if():"}
+{"text":"def on_snapshot(self, proto):"}
+{"text":"def suffix(self):"}
+{"text":"def sign(self, signer: Signer):"}
+{"text":"def execute(self, pool, log):"}
+{"text":"def get_facts(self):"}
+{"text":"def list_windowsfeatures():"}
+{"text":"def get_fd_waveform(template=None, **kwargs):"}
+{"text":"def supported_cameras():"}
+{"text":"def discover(timeout=5):"}
+{"text":"def plotdata(self, key, part='re', scale='log', steps=50):"}
+{"text":"def matches(self, spec):"}
+{"text":"def check_copyright_symbol(text):"}
+{"text":"def callgraph(func):"}
+{"text":"def _convert_to_spmatrix(operators):"}
+{"text":"def encode(self, value):"}
+{"text":"def diff_node_cache(prov_dir, node, new_data, opts):"}
+{"text":"def order_by(self, field_path, direction=ASCENDING):"}
+{"text":"def send(self, message_type, data, callback=None, one_way=False):"}
+{"text":"def generate_config_file(self):"}
+{"text":"def save_file(self, obj): # pylint: disable=too-many-branches"}
+{"text":"def init_registry_from_json(mongo, filename, clear_collection=False):"}
+{"text":"def to_dict_list(mystr):"}
+{"text":"def admin_tools_render_dashboard(context, location='index', dashboard=None):"}
+{"text":"def connect_get_namespaced_pod_portforward(self, name, namespace, **kwargs):  # noqa: E501"}
+{"text":"def safe_open(filename, *args, **kwargs):"}
+{"text":"def tabs_or_spaces(physical_line, indent_char):"}
+{"text":"def stencil(**kwargs):"}
+{"text":"def _dep_id(self, dependency):"}
+{"text":"def fit_model(ts, maxLag=1, noIntercept=False, sc=None):"}
+{"text":"def _update_srcmap_file(self, sources, overwrite=True):"}
+{"text":"def check_env(self, envar, value):"}
+{"text":"def timestamp_to_local_time_str(\n        timestamp, timezone_name, fmt=\"yyyy-MM-dd HH:mm:ss\"):"}
+{"text":"def set_colourtemp(self, colourtemp):"}
+{"text":"def unregister(self, measurement_class, callback):"}
+{"text":"def render(gpg_data, saltenv='base', sls='', argline='', **kwargs):"}
+{"text":"def shell_context_processor(self, fn):"}
+{"text":"def infer_time_unit(time_seconds_arr):"}
+{"text":"def start_redis(self):"}
+{"text":"def fanpower_bhp(ddtt):"}
+{"text":"def stop(self, ends=None, forced=False):"}
+{"text":"def logarithm(requestContext, seriesList, base=10):"}
+{"text":"def mute_volume(self, mute):"}
+{"text":"def SearchClients(query=None, context=None):"}
+{"text":"def _cert_array_from_pem(pem_bundle):"}
+{"text":"def _trim_batch(batch, length):"}
+{"text":"def method_as_view(cls, method_name, *class_args, **class_kwargs):"}
+{"text":"def fisher(yhat,y,samples=False):"}
+{"text":"def get_parametric(self, check=True, tolerance=0.001):\r"}
+{"text":"def _initialize_upload(self):"}
+{"text":"def dump_ast(ast, indent=' ', newline='\\n'):"}
+{"text":"def setup(self, bottom, top):"}
+{"text":"def dumps(data, use_yaml=None, safe=True, **kwds):"}
+{"text":"def log_results(self):"}
+{"text":"def bsrchi(value, ndim, array):"}
+{"text":"def do_format(self, format):"}
+{"text":"def interval_host(host, time, f, *args, **kwargs):"}
+{"text":"def decode_interactively(estimator, hparams, decode_hp, checkpoint_path=None):"}
+{"text":"def omega_mixture(omegas, zs, CASRNs=None, Method=None,\n                  AvailableMethods=False):"}
+{"text":"def nonlocal_check(self, original, loc, tokens):"}
+{"text":"def parse_signature_type_comment(type_comment):"}
+{"text":"def set_generated_target_suffix (type, properties, suffix):"}
+{"text":"def all_strings(arr):"}
+{"text":"def schemaless_reader(fo, writer_schema, reader_schema=None):"}
+{"text":"def to_color(self):"}
+{"text":"def _main():"}
+{"text":"def inspect_repo(self, repo_name):"}
+{"text":"def open_link(self, *args):"}
+{"text":"def close(self):"}
+{"text":"def _convert_word(word):"}
+{"text":"def api_errors_to_messages(request, error, fallback_text):"}
+{"text":"def _set_value(self, slot_record):"}
+{"text":"def get_task(dag_id, task_id):"}
+{"text":"def map_fit(interface, state, label, inp):"}
+{"text":"def primary_key(cls):"}
+{"text":"def _postprocess_options(dbg, opts):"}
+{"text":"def _getNearestMappingIndexList(fromValList, toValList):"}
+{"text":"def normalize_docroot(app, root):"}
+{"text":"def divide(self, phi1, inplace=True):"}
+{"text":"def add_book(self, body, doc_type='book'):"}
+{"text":"def bbfunc(wave, temperature):"}
+{"text":"def fix_e304(self, result):"}
+{"text":"def tomask(self, pores=None, throats=None):"}
+{"text":"def import_object_with_scope(name):"}
+{"text":"def read_gtfsr(path, *, from_json=False):"}
+{"text":"def _get_vqa_v2_image_feature_dataset(\n    directory, feature_url, feature_filename=\"mscoco_feat.tar.gz\"):"}
+{"text":"def _process_script_node(node, name):"}
+{"text":"def p_error(self, elem):"}
+{"text":"def CreateTypes(self, allTypes):"}
+{"text":"def challenge_response(self, challenge, mode='HMAC', slot=1, variable=True, may_block=True):"}
+{"text":"def gammatone(freq, bandwidth, phase=0, eta=4):"}
+{"text":"def main():"}
+{"text":"def make_fc(dim_in, hidden_dim, use_gn=False):"}
+{"text":"async def api_call(self, verb, action, params=None, add_authorization_token=True, retry=False):"}
+{"text":"def _install_signal_handler(self, signal_number, signal_name):"}
+{"text":"def _onEncoding(self, encString, line, pos, absPosition):"}
+{"text":"def cmd_relay(self, args):"}
+{"text":"def cluster_info(ipyclient, spacer=\"\"):"}
+{"text":"def _solve(self, A=None, b=None):"}
+{"text":"def _make_canonical_headers(headers, headers_to_sign):"}
+{"text":"def get_client_settings(**kwargs):"}
+{"text":"def extract_cylinder(im, r=None, axis=0):"}
+{"text":"def _get_napps(napps_dir):"}
+{"text":"def build_html():"}
+{"text":"def override_unit(self, unit, parse_strict='raise'):"}
+{"text":"def from_pickle(path: Union[str, BinaryIO], check_version: bool = True) -> BELGraph:"}
+{"text":"def iterencode(self, o):"}
+{"text":"def login(self):"}
+{"text":"def get(self, section, option, type_=six.string_types, default=None):"}
+{"text":"def upload(self, filePath, description=None):"}
+{"text":"def flow_ramp(self):"}
+{"text":"def report_comment_abuse(context, obj):"}
+{"text":"def lattice(self, lattice):"}
+{"text":"def group(self, p_todos):"}
+{"text":"def create_plugin(plugin_data,\n                  verify_plugin=True,\n                  conn=None):"}
+{"text":"def get_vars(n):"}
+{"text":"def rmdir(self):"}
+{"text":"def parse_snpeff_log(self, f):"}
+{"text":"def description(self):"}
+{"text":"def build_from_packet(pkt):"}
+{"text":"def length(self):"}
+{"text":"def fold_columns_to_rows(df, levels_from=2):"}
+{"text":"def run(self, scenario, learn=True):"}
+{"text":"def cli(env, identifier, enabled, port, weight, healthcheck_type, ip_address):"}
+{"text":"def intervals_to_boundaries(intervals, q=5):"}
+{"text":"def create_inputhook_qt4(mgr, app=None):"}
+{"text":"def _to_dsn(hosts):"}
+{"text":"def write(self, output_stream, kmip_version=enums.KMIPVersion.KMIP_1_0):"}
+{"text":"def initialize(**kwargs):"}
+{"text":"def channels(self, use_cached=False, **params_to_override):"}
+{"text":"def _inherit_parent_kwargs(self, kwargs):"}
+{"text":"def __log_number_of_constants(self):"}
+{"text":"def _to_mongo_query(query):"}
+{"text":"def transform_from_chomsky_normal_form(root):"}
+{"text":"def get_longest_orf(orfs):"}
+{"text":"def fetch_sel(self, ipmicmd, clear=False):"}
+{"text":"def request(self, method, url, fields=None, headers=None, **urlopen_kw):"}
+{"text":"def namedb_get_names_in_namespace( cur, namespace_id, current_block, offset=None, count=None ):"}
+{"text":"def connection(self):"}
+{"text":"def add_n_smooth(smooth_input, smooth_time, initial_value, order, subs, subscript_dict):"}
+{"text":"def commit(self, **kwargs):"}
+{"text":"def list_projects(self, ignore_default_project_node=True):"}
+{"text":"def make_connection(self, transport, address):"}
+{"text":"def join_mwp(tags: List[str]) -> List[str]:"}
+{"text":"def symbolic_master_equation(self, rho=None):"}
+{"text":"def get_commensurate_points_in_integers(supercell_matrix):"}
+{"text":"def resolve_parent(self, disk_path, template_store, template_repo):"}
+{"text":"def dumpb(obj, container_count=False, sort_keys=False, no_float32=True, default=None):"}
+{"text":"def prepare_rsem_reference(gtf, multifasta, build):"}
+{"text":"def create_artifact(entity_id, message_handle, endpoint_index=0):"}
+{"text":"def url_path_replace(url, old, new, count=None):"}
+{"text":"def prepare_metadata(devkit_archive):"}
+{"text":"def get_config(data, *models, **kwargs):"}
+{"text":"def fval(self, instance):"}
+{"text":"def canonical_stylename(font):"}
+{"text":"def get_vault_ec2_certificate_configuration(self, cert_name, mount_point='aws-ec2'):"}
+{"text":"def generate(basename, xml):"}
+{"text":"def start_(name):"}
+{"text":"def sync_auth_groups():"}
+{"text":"def get_cpu_property(self, property_p):"}
+{"text":"def create_image_footprint(image, refwcs, border=0.):"}
+{"text":"def _get_dvs_product_info(dvs_name, dvs_product_info):"}
+{"text":"def boot_packet(sock, cmd, arg1=0, arg2=0, arg3=0, data=b\"\"):"}
+{"text":"def ca_exists(ca_name, cacert_path=None, ca_filename=None):"}
+{"text":"def zip_dicts(left, right, prefix=()):"}
+{"text":"def chown_r(path: str, user: str, group: str) -> None:"}
+{"text":"def pot_to_requiv_contact(pot, q, sma, compno=1):"}
+{"text":"def reaction_formula(reaction, compound_formula):"}
+{"text":"def edges_between_two_vertices(self, vertex1, vertex2, keys=False):"}
+{"text":"def plot_front(self):"}
+{"text":"def write_json(json_obj, filename, mode=\"w\", print_pretty=True):"}
+{"text":"def _parse(self, context=0, push=True):"}
+{"text":"def _segmentation_guts(root, file_paths, max_partition_size):"}
+{"text":"def list_nodes(full=False, call=None):"}
+{"text":"def predict_mappings(self, mappings):\r"}
+{"text":"def _generate_trials(self, experiment_spec, output_path=\"\"):"}
+{"text":"def xml_to_tupletree_sax(xml_string, meaning, conn_id=None):"}
+{"text":"def close(self):"}
+{"text":"def add_vectors(vec_a, vec_b, periodic):"}
+{"text":"def _poll_task(task_id, server_config, poll_rate=None, timeout=None):"}
+{"text":"def _get_rate(self, value):"}
+{"text":"def pipe(cmd, *arguments, **kwargs):"}
+{"text":"def _format_report_line(self, test, time_taken, color, status, percent):"}
+{"text":"def parse_sat(s, varname='x'):"}
+{"text":"def splittext(text, search, attr):"}
+{"text":"def fromxml(node):"}
+{"text":"def connect(self, **kwargs):"}
+{"text":"def create_data(*args):"}
+{"text":"def minimumLabelHeight(self):\r"}
+{"text":"def load_func_from_module(modname, funcname, verbose=True, moddir=None, modpath=None):"}
+{"text":"def hook_param(self, hook, p):"}
+{"text":"def rect(self, x, y, width, height, color):"}
+{"text":"def get_user_credentials(self):"}
+{"text":"def sanitize(url, config):"}
+{"text":"def show(self):"}
+{"text":"def do_para(self, node):"}
+{"text":"def estimate_tau_int(chains, **kwargs):"}
+{"text":"def checkNewCheckpointsAreLeafVertices(self):"}
+{"text":"def shutdown(self):"}
+{"text":"def build_indentation_list(parser: str = 'github'):"}
+{"text":"def _get_new_column_header(self, vcf_reader):"}
+{"text":"def setShowRichText(self, state):\r"}
+{"text":"def _pb_attr_value(val):"}
+{"text":"def _prepareSQL(cls, operation=\"SELECT\", where=None, selectfields=None, orderBy=None):"}
+{"text":"def reconstruct_secret(shares, strict_mode=True):"}
+{"text":"def authorize(self, scope=None, redirect_uri=None, state=None):"}
+{"text":"def perform_release(context):"}
+{"text":"def _overlap_slices(self, shape):"}
+{"text":"def _map_value(self, value):"}
+{"text":"def _HasId(self, schedule, entity_id):"}
+{"text":"def movingMax(requestContext, seriesList, windowSize):"}
+{"text":"def scene_interpreter(self, scene):"}
+{"text":"async def async_determine_channel(channel):"}
+{"text":"def filter_on_wire_representation(ava, acs, required=None, optional=None):"}
+{"text":"def from_list(cls, l):"}
+{"text":"def register_product_key(self, key):"}
+{"text":"def get_instance(self, payload):"}
+{"text":"def keys(self):"}
+{"text":"def quantile(self, q=0.5, interpolation='linear'):"}
+{"text":"def get(self, k):"}
+{"text":"def removeRedundantVerbChains( foundChains, removeOverlapping = True, removeSingleAraAndEi = False ):\r"}
+{"text":"def nextClass(self, classuri):"}
+{"text":"def is_same_time(self):"}
+{"text":"def calculate_check_digit(gtin):"}
+{"text":"def keys(self):"}
+{"text":"def parse(readDataInstance):"}
+{"text":"def updateStatus(self, block_name=\"\", open_for_writing=0):"}
+{"text":"def xyz2rgb(x__, y__, z__):"}
+{"text":"def parse_extension_item(\n    header: str, pos: int, header_name: str\n) -> Tuple[ExtensionHeader, int]:"}
+{"text":"def _process_diseases(self, limit=None):"}
+{"text":"def create(name, **params):"}
+{"text":"def array(self,n=-1):"}
+{"text":"def use_federated_objective_bank_view(self):"}
+{"text":"def _cleanup():"}
+{"text":"def run(self):"}
+{"text":"def max_drawdown(returns, out=None):"}
+{"text":"def sync_handler(self, args):"}
+{"text":"def bin_bblock (widths, counts, p0=0.05):"}
+{"text":"def fillRGB(self, r, g, b, start=0, end=-1):"}
+{"text":"def getenv(name, **kwargs):"}
+{"text":"def _all_insert_into_row(self, row, insert_dict):"}
+{"text":"def _id(self):"}
+{"text":"def validate_file(fn, options=None):"}
+{"text":"def first(iterable, default=_marker):"}
+{"text":"def dyno_hist(x, window=None, probability=True, edge_weight=1.):"}
+{"text":"def add_readgroups(job, bamfile, sample_type, univ_options, picard_options):"}
+{"text":"def get_config(filename, *search_dirs, **kwargs):"}
+{"text":"def points_are_in_a_straight_line( points, tolerance=1e-7 ):"}
+{"text":"def _get_line(self) -> str:"}
+{"text":"def update(self, z, R=None, UT=None, hx=None, **hx_args):"}
+{"text":"def inputPoint(self):"}
+{"text":"def _masked_median(data, axis=None):"}
+{"text":"def add(self, text, name, field, type='term', size=None, params=None):"}
+{"text":"def dx(mt, x):"}
+{"text":"def restart(self, container, timeout=10):"}
+{"text":"def _scan_file(filename, sentinel, source_type='import'):"}
+{"text":"def run_length_decode(in_array):"}
+{"text":"def main(*args):"}
+{"text":"def get_object(self, obj_class, data=None, subset=None):"}
+{"text":"def __create_admin_entry(self, handleowner, permissions, index, handle, ttl=None):"}
+{"text":"def send_head(self):"}
+{"text":"def JSONObjectWriter(registry, fo, host=None):"}
+{"text":"def received_message(self, data):"}
+{"text":"def find(self,\n             id,\n             params=None,\n             ):"}
+{"text":"def get_covaried_params(mus, evecsCV):"}
+{"text":"def _normalize_purge_unknown(mapping, schema):"}
+{"text":"def set_range(self, minimum, maximum):"}
+{"text":"def to_gltf(self, scene):"}
+{"text":"def _func_filters(self, filters):"}
+{"text":"def Sample(self, n):"}
+{"text":"def GetPageInfo(self):"}
+{"text":"def compute_internal(self, sym_name, bucket_kwargs=None, **arg_dict):"}
+{"text":"def java_potential_term(mesh, instructions):"}
+{"text":"def get_assigned_to_user(parser, token):"}
+{"text":"def _proxy(self):"}
+{"text":"def schema_term(self):"}
+{"text":"def cull_nonmatching_trees(nexson, tree_id, curr_version=None):"}
+{"text":"def kill_all(job_queue, reason='None given', states=None):"}
+{"text":"def _do_api_call(self, endpoint_info, json):"}
+{"text":"def new_session_callback(fuzzer, edge, resp):"}
+{"text":"def upload_return(request):"}
+{"text":"def serve_bower_components(path):"}
+{"text":"def channels_set_join_code(self, room_id, join_code, **kwargs):"}
+{"text":"def move_window(pymux, variables):"}
+{"text":"def _printAvailableCheckpoints(experimentDir):"}
+{"text":"def print_model(self,sep='\\n'):"}
+{"text":"def is_valid_element(element):"}
+{"text":"def get_list_subtasks(client, list_id, completed=False):"}
+{"text":"def image_export(cls, source_path, dest_url, **kwargs):"}
+{"text":"def _MakeMethodDescriptor(self, method_proto, service_name, package, scope,\n                            index):"}
+{"text":"def refine (self, requirements):"}
+{"text":"def enc_file(name, out=None, **kwargs):"}
+{"text":"def get_archive_file_list(archive_filename):"}
+{"text":"def channels_close(self, room_id, **kwargs):"}
+{"text":"def seal(mock):"}
+{"text":"def author_info(name, contact=None, public_key=None):"}
+{"text":"def set_pulse_duration(self, duration):"}
+{"text":"def predict(self, h=5, oos_data=None, intervals=False, **kwargs):"}
+{"text":"def add_username(user, apps):"}
+{"text":"def wxcode(code: str) -> str:"}
+{"text":"def upload(self, content, content_type, filename=None):"}
+{"text":"def run_through_shell(command, enable_shell=False):"}
+{"text":"def _parse_distro_release_content(line):"}
+{"text":"def _IAC_parser(self, buf, network_reader, network_writer, connection):"}
+{"text":"def set_kwargs(self, code):"}
+{"text":"def formatLog(source=\"\", level=\"\", title=\"\", data={}):"}
+{"text":"def vividict_to_dict(vividict):"}
+{"text":"def shared_blockchain_instance(self):"}
+{"text":"def parse_keystring(conn, key_string):"}
+{"text":"def set_nested_attribute(obj, attribute, value):"}
+{"text":"def centroid_sort(centroids):"}
+{"text":"def density(self, *args):"}
+{"text":"def parse_ecdh(line):"}
+{"text":"def run(config, **kwargs):"}
+{"text":"def delete_changed(self, settings, key, user_data):"}
+{"text":"def execute(self):"}
+{"text":"def get_object_handle(self, obj):"}
+{"text":"def fn_name(fn):"}
+{"text":"def write(nml, nml_path, force=False, sort=False):"}
+{"text":"def service(ctx, opts):"}
+{"text":"def logCellActivity_noisyFeature_varyNumColumns(name=\"cellActivity\"):"}
+{"text":"def get_entrust(self):"}
+{"text":"def as_steam3(self):"}
+{"text":"def CheckEmptyBlockBody(filename, clean_lines, linenum, error):"}
+{"text":"def c2u(name):"}
+{"text":"def write(self, handle):"}
+{"text":"def add_filter_function(self, name, new_function):"}
+{"text":"def connect_edges_pd(graph):"}
+{"text":"def _and32(ins):"}
+{"text":"def _handle_log_rotations(self):"}
+{"text":"def constant_profile_dict(self):"}
+{"text":"def visit_while(self, node):"}
+{"text":"def isVisible(self, instance, mode='view', default=\"visible\", field=None):"}
+{"text":"def create_graph_name(suffix='', dirname=None):"}
+{"text":"def _parse_string_to_nested_lists(self, value):"}
+{"text":"def setup_value_mapping_panels(self, classification):"}
+{"text":"def blockSignals( self, state ):\r"}
+{"text":"def free_extent_count(self):"}
+{"text":"def _spinboxValueChanged(self, index, spinBox=None):"}
+{"text":"def flip_video(self, is_flip, callback=None):"}
+{"text":"def get_polling_override(self):"}
+{"text":"def properties(self, value):"}
+{"text":"def show(self):"}
+{"text":"def num_valid_substrings(self, path_to_words):"}
+{"text":"def predict_subsequences(self, sequence_dict, peptide_lengths=None):"}
+{"text":"def filename_sanitized(self, extension, default_filename='file'):"}
+{"text":"def apply(self, template, context={}):\n        context.update(self.context)"}
+{"text":"def setup_logging(verbosity, filename=None):"}
+{"text":"def get_parameter(self):"}
+{"text":"def name(self):"}
+{"text":"def get_full_pipe(sol, base=()):"}
+{"text":"def bodvar(body, item, dim):"}
+{"text":"def get(self, sid):"}
+{"text":"def keyDown(key, pause=None, _pause=True):"}
+{"text":"def query_sequence_length(self):"}
+{"text":"def compare_names(first, second):"}
+{"text":"def array2nii(im, A, fnii, descrip='', trnsp=(), flip=(), storage_as=[]):"}
+{"text":"def delete(gandi, resource, force, background):"}
+{"text":"def keyPressEvent( self, event ):"}
+{"text":"def _position(self):"}
+{"text":"def local_minima(img, min_distance = 4):"}
+{"text":"def update_credentials(self, aws_access_key_id, aws_secret_access_key):"}
+{"text":"def real(self):"}
+{"text":"def insert_inexistence(self, table, kwargs, condition):"}
+{"text":"def deleteRating(self):"}
+{"text":"def _speak_normal(self, element):"}
+{"text":"def p_config(self, p):"}
+{"text":"def sevenths(reference_labels, estimated_labels):"}
+{"text":"def polynomial_sign(poly_surface, degree):"}
+{"text":"def _recurse_find_trace(self, structure, item, trace=[]):"}
+{"text":"def difference (b, a):"}
+{"text":"def get(self, url, params=None, **kwargs):"}
+{"text":"def register(self, target):"}
+{"text":"def predict(self, n_periods=10, exogenous=None,\n                return_conf_int=False, alpha=0.05):"}
+{"text":"def parse_config(init_func):"}
+{"text":"def inv(self):"}
+{"text":"def create_destination(flowable, container, at_top_of_container=False):"}
+{"text":"def plot(f, lcar=1.0e-1):"}
+{"text":"def expandParameters(*args):"}
+{"text":"def add_command(self, cmd_name, *args):"}
+{"text":"def finalize(self):"}
+{"text":"def setHoverBackground( self, column, brush ):\r"}
+{"text":"def delete_files_within_dir(directory: str, filenames: List[str]) -> None:"}
+{"text":"def set(self, uri, content):"}
+{"text":"def setTypesModuleName(self, name, modulePath=None):"}
+{"text":"def user_return(self, frame, return_value):"}
+{"text":"def get_or_none(self, prefetch_related=None, select_related=False,\n                    **kwargs):"}
+{"text":"def update(self,\n               updatePortalParameters,\n               clearEmptyFields=False):"}
+{"text":"def main():"}
+{"text":"def tangent(x, null=(-np.inf, np.inf), rtol=default_rtol, atol=default_atol):"}
+{"text":"def _get_center(self):"}
+{"text":"def handle_lease(queue_name):"}
+{"text":"def close(self):"}
+{"text":"def bernstein_companion(coeffs):"}
+{"text":"def disable_env_reset_on_sudo(log=False):"}
+{"text":"def log_to_logger(fn):"}
+{"text":"def main(ctx, debug, base_config, env_file):  # pragma: no cover"}
+{"text":"def option_list_all(self):"}
+{"text":"def deserialize(self, data=None):"}
+{"text":"def transitivity_bd(A):"}
+{"text":"def load(self, origin_passphrase, keys=None, key_file=None):"}
+{"text":"def list_installed_files(self):"}
+{"text":"def add_suffix(in_files, suffix):"}
+{"text":"def issimp(s, full=False):"}
+{"text":"def gopen(name, *args, **kwargs):"}
+{"text":"def convert(model, input_name, output_features):"}
+{"text":"def get_compiler(compiler, **compiler_attrs):"}
+{"text":"def set_xml_output(self, xml_file):"}
+{"text":"def make_dir(self):"}
+{"text":"def asDict(self):"}
+{"text":"def getSystemVariable(self, remote, name):"}
+{"text":"def state(self, state=vanilla.message.NoState):"}
+{"text":"def save(self):"}
+{"text":"def xy2rd(self,pos):"}
+{"text":"def prepare_untran(feat_type, tgt_dir, untran_dir):"}
+{"text":"def _make_repr(class_name, *args, **kwargs):"}
+{"text":"def update_function(self, param_vals):"}
+{"text":"def init_from_class_batches(self, class_batches, num_shards=None):"}
+{"text":"def delete_archive_file(self):"}
+{"text":"def create_node(**kwargs):"}
+{"text":"async def get_attached_modules(request):"}
+{"text":"def object_to_schema(obj, **options):"}
+{"text":"def minute_frame_to_session_frame(minute_frame, calendar):"}
+{"text":"def nacm_cmd_exec_default(self, **kwargs):"}
+{"text":"def request_entity(self, request_entity):"}
+{"text":"def _find_home_or_away(self, row):"}
+{"text":"def get_first_edge_id_by_node_ids(self, node_a, node_b):"}
+{"text":"def sg_transpose(tensor, opt):"}
+{"text":"def versions(mode=None, add_pckg=None, ncol=4):"}
+{"text":"def cli_run():"}
+{"text":"def drive(self):"}
+{"text":"def create_parser():"}
+{"text":"def message_received(request, backend_name):"}
+{"text":"def _diffSchema(diskSchema, memorySchema):"}
+{"text":"def _load(self):"}
+{"text":"def select_best_url(self):"}
+{"text":"def _extract_lengths(ll):"}
+{"text":"def check_structure(self, keys):"}
+{"text":"def __do_filter_sub(self, scanline, result):"}
+{"text":"def fullsplit(path, result=None, base_path=None):"}
+{"text":"def get_config_value(request, key, default, search_in_settings=True):"}
+{"text":"def pipe_strtransform(context=None, _INPUT=None, conf=None, **kwargs):"}
+{"text":"def _process_image_file(fobj, session, filename):"}
+{"text":"def urlsplit(url, scheme='', allow_fragments=True):"}
+{"text":"def pages_breadcrumb(context, page, url='\/'):"}
+{"text":"def parse(self, text):"}
+{"text":"def addSkip(self, test, reason):"}
+{"text":"def safe_concurrent_creation(target_path):"}
+{"text":"def validateArchiveList(archiveList):"}
+{"text":"def modprobe(state, host, name, present=True, force=False):"}
+{"text":"def add_gateway_router(self, router, body=None):"}
+{"text":"def arrangeByType(service_list, preferred_types):"}
+{"text":"def encode_relation(obj):\r"}
+{"text":"def handle(self, integers, **options):"}
+{"text":"def overlapping_bins(start, stop=None):"}
+{"text":"def usmooth (window, uncerts, *data, **kwargs):"}
+{"text":"def update_selection_self_prior_condition(self, state_row_iter, sm_selected_model_set, selected_model_list):"}
+{"text":"def getallhwinfo():"}
+{"text":"async def fetch_house(self, house_id):"}
+{"text":"def parse_args(argv=None):"}
+{"text":"def build_cipher(self, alg='aes_128_cbc'):"}
+{"text":"def nonlinear_odr(x, y, dx, dy, func, params_init, **kwargs):"}
+{"text":"def get_params(job_inis, **kw):"}
+{"text":"def _process_batch(self, param, dataframe):"}
+{"text":"def integral(fcn, interval, fcnshape=None, tol=1e-8, hmin=None):"}
+{"text":"def get_parens(line,retlevel=0,retblevel=0):"}
+{"text":"def tkvrsn(item):"}
+{"text":"def SetPercentageView(self, percentageView):"}
+{"text":"def compare(a, b):"}
+{"text":"def _format_tag(self, name, value, scraper_config):"}
+{"text":"def landsat_c1_sr_cloud_mask(input_img, cloud_confidence=3, snow_flag=False):"}
+{"text":"def __insert_frond_LF(d_w, d_u, dfs_data):"}
+{"text":"def dimensions(self):"}
+{"text":"def failover_limitation(self):"}
+{"text":"def coinbase_withdraw(self, amount, currency, coinbase_account_id):"}
+{"text":"def _scale_fig_size(figsize, textsize, rows=1, cols=1):"}
+{"text":"def derivatives(self, x, y, theta_E, s, q):"}
+{"text":"def preprocess(source):"}
+{"text":"def StartProfiling(self, configuration, identifier):"}
+{"text":"def report_error(title=None, data={}, caught=None, is_fatal=False):"}
+{"text":"def length_hint(obj, default=0):"}
+{"text":"def _get_args_str(func, highlight=None):"}
+{"text":"def spread(nodes, n):"}
+{"text":"def add(self, term):"}
+{"text":"def fit(self, X, y=None):"}
+{"text":"def get_kana_info(char):"}
+{"text":"def clone_repo(session, urls):"}
+{"text":"def parse(packages, static=False):"}
+{"text":"def partition_dumps(self):"}
+{"text":"def concatenate_join_units(join_units, concat_axis, copy):"}
+{"text":"def set_env(settings=None, setup_dir=''):"}
+{"text":"def build_changelog(docs_path, package_name=\"yacms\"):"}
+{"text":"def connect(self, attempts=20, delay=0.5):"}
+{"text":"def filter_with_theta(image, theta, sigma=1., filter_size=9):"}
+{"text":"def visit_keyword(self, node):"}
+{"text":"def CreateSmartShoppingAdGroup(client, campaign_id):"}
+{"text":"def invalidate(self):"}
+{"text":"def removeDisk(rh):"}
+{"text":"def _check_init(self, node):"}
+{"text":"def bias_correct(params, data, acf=None):"}
+{"text":"def gen_feats(self, p_set):"}
+{"text":"def pydoc_cli_monkey_patched(port):"}
+{"text":"def make_grid(xx, yy):"}
+{"text":"def _spectrum(self, photon_energy):"}
+{"text":"def update(self, pbar):"}
+{"text":"def getSensorData(self, name, channel=None):"}
+{"text":"def middle(self):"}
+{"text":"def create_user(request, ulogin_response):"}
+{"text":"def resample(self, resampledWaveTab):"}
+{"text":"def set_file_type(self, doc, type_value):"}
+{"text":"def uninstall(path, restart=False):"}
+{"text":"def text(self, value):"}
+{"text":"def set_status(self, value):"}
+{"text":"def cleanup_virtualenv(bare=True):"}
+{"text":"def move(self, target, home_flagged_axes=False):"}
+{"text":"def add_user(self, name, password=None, read_only=None, **kwargs):"}
+{"text":"def long_description():"}
+{"text":"def setCollapsed( self, state ):\r"}
+{"text":"def _validate_page(self):"}
+{"text":"def replace_find(self, focus_replace_text=False, replace_all=False):\r"}
+{"text":"def cli(env, sortby, cpu, columns, datacenter, name, memory, disk, tag):"}
+{"text":"def fromdb(dbo, query, *args, **kwargs):"}
+{"text":"def calc_info(db, calc_id):"}
+{"text":"def rebuild_schema(doc, r, df):"}
+{"text":"def check(branch: str = 'master'):"}
+{"text":"def transform_to_2d(data, max_axis):"}
+{"text":"def list_all_zones_by_name(region=None, key=None, keyid=None, profile=None):"}
+{"text":"def hash(*cols):"}
+{"text":"def new(self, **kwargs):"}
+{"text":"def _rebuild_mod_path(orig_path, package_name, module):"}
+{"text":"def to_bool(s, fallback=None):"}
+{"text":"def _delete_reminders_from_list(\n            self,\n            listName):"}
+{"text":"def zeeman_energies(fine_state, Bz):\r"}
+{"text":"def fnmatch( name, pat ):"}
+{"text":"def get_shell(pid=None, max_depth=6):"}
+{"text":"def update_resourcegroup(group,**kwargs):"}
+{"text":"def ConvCnstrMODOptions(opt=None, method='cns'):"}
+{"text":"def connected_objects(self, from_obj):"}
+{"text":"def register(self, hdrs):"}
+{"text":"def execute(self, expr, params=None, limit='default', **kwargs):"}
+{"text":"def remove_breakpoint(self, event_type, bp=None, filter_func=None):"}
+{"text":"def dropBadEntries(self):"}
+{"text":"def _kind(d):"}
+{"text":"def _read_tle(self):"}
+{"text":"def unstash(self, filter_func=None, to_stash='active', from_stash='stashed'):"}
+{"text":"def _get_wrhiercfg(self):"}
+{"text":"def show_env():"}
+{"text":"def handle_heartbeat(queue_name):"}
+{"text":"def list(self):"}
+{"text":"def set_https_port(port=443):"}
+{"text":"def setup(self):"}
+{"text":"def do_s1(self, line):"}
+{"text":"def save_parameters(self, path, grad_only=False):"}
+{"text":"def prune_empty_node(node, seen):"}
+{"text":"def get_staking_leaderboard(self, round_num=0, tournament=1):"}
+{"text":"def lms(args):"}
+{"text":"def StatResultFromStatEntry(\n    stat_entry):"}
+{"text":"def rotate(matrix, angle):"}
+{"text":"def _raiseUnavailableFor401(message):"}
+{"text":"def set_core_connections_per_host(self, host_distance, core_connections):"}
+{"text":"def getx(self, name, *args):"}
+{"text":"def fetch(self):"}
+{"text":"def parse(self, path):"}
+{"text":"def cli(env, context_id, static_ip, remote_ip, note):"}
+{"text":"def update(self, index, iterable, commit=True):"}
+{"text":"def getProductAndReleaseResourceClient(self):"}
+{"text":"def get(self, name):"}
+{"text":"def disconnect(self, cback, subscribers=None, instance=None):"}
+{"text":"def compare_checkpoints(self, attr_mean):"}
+{"text":"def typechecked(call_: typing.Callable[..., T]) -> T:"}
+{"text":"def reverse(self, request, view_name):"}
+{"text":"def read_routes6():"}
+{"text":"def thread_view(request, pk):"}
+{"text":"def interp(self, date: timetools.Date) -> float:"}
+{"text":"def process_match(match, fixed_text, cur, cur_end):"}
+{"text":"def walk_mirteFiles(name, logger=None):"}
+{"text":"def get_shard_id2num_examples(num_shards, total_num_examples):"}
+{"text":"def convert_merge(builder, layer, input_names, output_names, keras_layer):"}
+{"text":"def add_backends(self, *backends):"}
+{"text":"def _translateMetricsToJSON(self, metrics, label):"}
+{"text":"def warn_on_deprecated_args(self, args):"}
+{"text":"def _piecewise(x, condlist, funclist, *args, **kw):"}
+{"text":"def process_file(self, file_path, zombies, pickle_dags=False, session=None):"}
+{"text":"def find_manifest_changes(new_file_state, old_file_state):"}
+{"text":"def len_gt(name, value):"}
+{"text":"def getTraitCovarStdErrors(self,term_i):"}
+{"text":"def put(self, obj=None):"}
+{"text":"def update_endpoint_obj(client, endpoint, object_id, revision, data):"}
+{"text":"def _strip_leading_dirname(self, path):"}
+{"text":"def input(self):"}
+{"text":"def nodeChunk(lines):"}
+{"text":"def _get_dns_entry_trs(self):"}
+{"text":"def downloadMARCOAI(doc_id, base):"}
+{"text":"def get_topology_config(self):"}
+{"text":"def container_state(name=None, remote_addr=None,\n                    cert=None, key=None, verify_cert=True):"}
+{"text":"def delete_object_from_file(file_name, save_key, file_location):"}
+{"text":"def combine_filenames(filenames, max_length=40):"}
+{"text":"def describe(self):"}
+{"text":"def paid_invoices_by_date(request, form):"}
+{"text":"def _get_min_mag_and_num_bins(self):"}
+{"text":"def main(argv):"}
+{"text":"def manage_slas(self, dag, session=None):"}
+{"text":"def _safe_cast(out_type, val):"}
+{"text":"def __parse_args(cam_c):"}
+{"text":"def auth_basic(check, realm=\"private\", text=\"Access denied\"):"}
+{"text":"def measure_aabb(fbasename=None, log=None, coord_system='CARTESIAN'):"}
+{"text":"def url(self, sitetree_item, context=None):"}
+{"text":"def contour_mask(self, contour):"}
+{"text":"def _render(request, data, encrypted, format=None):"}
+{"text":"def showDecidePage(request, openid_request):"}
+{"text":"def gemset_list_all(runas=None):"}
+{"text":"def get_race(self, row, division):"}
+{"text":"def p_sgn(p):"}
+{"text":"def name_window_pixmap(self, onerror = None):"}
+{"text":"def import_funcs(self, module):"}
+{"text":"def run_command(self, stream=sys.stdout, dry_run=False):"}
+{"text":"def _dict_to_string(dictionary):"}
+{"text":"def get_outputs(self, merge_multi_context=True):"}
+{"text":"def query_pager_by_kind(kind, current_page_num=1):"}
+{"text":"def _build(\n      self, inputs, targets, input_sequence_length, output_sequence_length):"}
+{"text":"def get_final_freq(approx, m1, m2, s1z, s2z):"}
+{"text":"def infer_func_form(node, base_type, context=None, enum=False):"}
+{"text":"def delete_line(self):\r"}
+{"text":"def koschei_group(config, message, group=None):"}
+{"text":"def minute_to_session(column, close_locs, data, out):"}
+{"text":"def close(self):"}
+{"text":"def _from_dict(cls, _dict):"}
+{"text":"def normalize(value, series, offset=0):"}
+{"text":"def EventsNotificationsGet(self, event_notification_id = -1):\r"}
+{"text":"def week_schedule(index, on_time=None, off_time=None, off_days=None):"}
+{"text":"def get_or_create_user(self, username, password):"}
+{"text":"def _calc(cls, **kwargs):"}
+{"text":"def _parse_quota(mount, opts):"}
+{"text":"def read(self):"}
+{"text":"def ARPLimitExceeded_originator_switch_info_switchIdentifier(self, **kwargs):"}
+{"text":"def run(config, tag, bucket, account, not_bucket, not_account, debug, region):"}
+{"text":"def wait(self, timeout=None):"}
+{"text":"def gamma_humic_acid_to_coag(ConcAl, ConcNatOrgMat, NatOrgMat, coag):"}
+{"text":"def create_nic(client, target, nic):"}
+{"text":"def dump(data, hdfs_path, **kwargs):"}
+{"text":"def _roster_set(self, item, callback, error_callback):"}
+{"text":"def send_command(self, command):"}
+{"text":"def _with_error_handling(resp, error, mode, response_format):"}
+{"text":"def get_mean_and_stddevs(self, sites, rup, dists, imt, stddev_types):"}
+{"text":"def split_voxels(self, vtk_filename=None):"}
+{"text":"def create_product(self, product, version, build, name=None, description=None, attributes={}):"}
+{"text":"def nl_list_for_each_entry(pos, head, member):"}
+{"text":"def active(self, include=None):"}
+{"text":"def Line(pointa=(-0.5, 0., 0.), pointb=(0.5, 0., 0.), resolution=1):"}
+{"text":"def run_workers(no_subprocess, watch_paths=None, is_background=False):"}
+{"text":"def _calc_strain_ref(x_3, x_3_mean):"}
+{"text":"def export_cmd(argv=sys.argv[1:]):  # pragma: no cover"}
+{"text":"def _create_unicode_map():"}
+{"text":"def color_set_hsv(c: Color, h: float, s: float, v: float) -> None:"}
+{"text":"def visit_AsyncFunctionDef(self, node):"}
+{"text":"def snap_install_requested():"}
+{"text":"def get_certificate_generator(self):"}
+{"text":"def mask_seq(self,seq):"}
+{"text":"def _apply_cn_keys_patch():\r"}
+{"text":"def _git_command(params, cwd):"}
+{"text":"def load(fname: str) -> 'Config':"}
+{"text":"def rpc_get_name_at( self, name, block_height, **con_info ):"}
+{"text":"def list(context, topic_id, sort, limit, where, verbose):"}
+{"text":"def cleanup(self):"}
+{"text":"def find_usb_device_by_id(self, id_p):"}
+{"text":"def selected(self, interrupt=False):"}
+{"text":"def get_output(script, expanded):"}
+{"text":"def _getParameterMethods(self, paramName):"}
+{"text":"def write(settings_path, settings_data, merge=True):"}
+{"text":"def get_alarms(zone=None):"}
+{"text":"def _fill_free_pool(self, override_min):"}
+{"text":"def distance_to_mesh(self, mesh, with_depths=True):"}
+{"text":"def resolve_reshape_params(inputs, function_proto, batch_size):"}
+{"text":"def _repr_html_(self):"}
+{"text":"def init(quick):\n    # type: () -> None"}
+{"text":"def brightness(self, value=1.0):"}
+{"text":"def label_count(self, label_list_ids=None):"}
+{"text":"def environment(request=None):"}
+{"text":"def update_table_provisioning(\n        table_name, key_name, reads, writes, retry_with_only_increase=False):"}
+{"text":"def update(self):"}
+{"text":"def probe_async(self, callback):"}
+{"text":"def create_vip(self):"}
+{"text":"def com_daltonmaag_check_unnecessary_fields(ufo_font):"}
+{"text":"def to_str(string):"}
+{"text":"def resetToDefault(self, resetChildren=True):"}
+{"text":"def parse_timedelta(text):"}
+{"text":"def dna(self, dna):"}
+{"text":"def grant_qualification(self, qualification_request_id, integer_value=1):"}
+{"text":"def path_to_reference(path):"}
+{"text":"def _transform_from_pauli(data, num_qubits):"}
+{"text":"def headless(args):"}
+{"text":"def create_and_append_rally_point(self, lat, lon, alt, break_alt, land_dir, flags):"}
+{"text":"def build_parameters(request, meta, orgaMode, currentOrga):"}
+{"text":"def grants(self):"}
+{"text":"def show_pricing(kwargs=None, call=None):"}
+{"text":"def _create_array(self, arr: np.ndarray) -> int:"}
+{"text":"def set_log_type_flags(self, logType, stdoutFlag, fileFlag):"}
+{"text":"def requires_tango(min_version=None, conflicts=(), software_name=\"Software\"):"}
+{"text":"def _mem(self):"}
+{"text":"def create_action(self):"}
+{"text":"def trace(line):"}
+{"text":"def asDictionary(self):"}
+{"text":"def private_props(obj):"}
+{"text":"def __get_wbfmt_usrfld(self, data_nt):"}
+{"text":"def parse(source, world, jointgroup=None, density=1000, color=None):"}
+{"text":"def warning(self_, msg,*args,**kw):"}
+{"text":"def _file_watcher(state):"}
+{"text":"def topics(self):"}
+{"text":"def fourier2dpad(data, zero_pad=True):"}
+{"text":"def mapfiv(ol,map_func_args,**kwargs):"}
+{"text":"def _unmarshall_dict(value):"}
+{"text":"def download_tasks_number(self):"}
+{"text":"def dist(self, src, tar):"}
+{"text":"def create_swagger_json_handler(app, **kwargs):"}
+{"text":"def get_unaligned_start_coord(self):"}
+{"text":"def delete_lbaas_member(self, lbaas_member, lbaas_pool):"}
+{"text":"def _values(self):"}
+{"text":"def _login(self):"}
+{"text":"def format_ascii(sensor_graph):"}
+{"text":"def search_target_obj(target):"}
+{"text":"def export(self, top=True):"}
+{"text":"def mad(a):"}
+{"text":"def rationalize(flt: float, denominators: Set[int] = None) -> Fraction:"}
+{"text":"async def send_help(self, *args):"}
+{"text":"def gather_info(self, dframe):"}
+{"text":"def execute(db_name):"}
+{"text":"def OpenFile(filename, binary=False, newline=None, encoding=None):"}
+{"text":"def readMAP(fileName, prefix):"}
+{"text":"def _get_fields_by_mro(klass, field_class, ordered=False):"}
+{"text":"def read(self, sig) -> Value:"}
+{"text":"def installed(cls):"}
+{"text":"def fetch_file(self, in_path, out_path):\n        vvv(\"FETCH %s TO %s\" % (in_path, out_path), host=self.host)"}
+{"text":"def _prepare_base_image(self):"}
+{"text":"def check_memory_usage(buffered_geo_extent, cell_size):"}
+{"text":"def _get_pretty_table(self, fields):"}
+{"text":"def mark_begin_end_regex(regex, text, split_locations):"}
+{"text":"def eudex_hamming(\n    src, tar, weights='exponential', max_length=8, normalized=False\n):"}
+{"text":"def get_collection_tree(collection_ident, cursor):"}
+{"text":"def preformat_cache(cache, start=None, end=None):"}
+{"text":"def temporary_file_path(root_dir=None, cleanup=True, suffix='', permissions=None):"}
+{"text":"def json_loads(inbox):"}
+{"text":"def clicks_platforms(self, tag=None, fromdate=None, todate=None):"}
+{"text":"def read_evlrs(self):"}
+{"text":"def receive_notification(self, message):"}
+{"text":"def _validate(self):"}
+{"text":"def minimal_random_graph(num_vertices, seed=None, **kwargs):"}
+{"text":"def in_single_path_and_inner(self):"}
+{"text":"def _collect_zipimporter_cache_entries(normalized_path, cache):"}
+{"text":"def setup_common_actions(self):\r"}
+{"text":"def login_oauth2(self, username, password, mfa_code=None):"}
+{"text":"def setup_logging(name):"}
+{"text":"def is_private(ip):"}
+{"text":"def issues(self, kind, email):"}
+{"text":"def bookDF(symbol, token='', version=''):"}
+{"text":"def _fixPermissions(tool, workDir):"}
+{"text":"def compressed(self, new_type=None, *, include_ignored=False):"}
+{"text":"def _change_state_for_tasks_failed_to_execute(self, session):"}
+{"text":"def config_make(config_file):"}
+{"text":"def parse_cartouche_text(lines):"}
+{"text":"def source_absent(name):"}
+{"text":"def _pack(cls, tensors):"}
+{"text":"def activate(self, uid=None):"}
+{"text":"def update_storage_policy(policy, policy_dict, service_instance=None):"}
+{"text":"def text_alignment(x, y):"}
+{"text":"def set_headers(self, headers):"}
+{"text":"def name(self):"}
+{"text":"def evaluate(molecules, ensemble_chunk, sort_order, options, output_queue=None):"}
+{"text":"def python_2_unicode_compatible(klass):"}
+{"text":"def unit_response(self, area, wavelengths=None):"}
+{"text":"def score(self):"}
+{"text":"def set_widgets(self):"}
+{"text":"def model_fn(features, labels, mode, params, config):"}
+{"text":"def remove_annotation(self, a):"}
+{"text":"def chhome(name, home, **kwargs):"}
+{"text":"def GetTemplateArgs(clean_lines, linenum):"}
+{"text":"def map_object_literal(v: Union[str, jsonasobj.JsonObj]) -> ShExJ.ObjectLiteral:"}
+{"text":"def create_hadoopcli_client():"}
+{"text":"def _ellipsoids_bootstrap_expand(args):"}
+{"text":"def comparison_stats(df, els=['Mg', 'Sr', 'Ba', 'Al', 'Mn']):"}
+{"text":"def configure_defaults():"}
+{"text":"def wait(self):"}
+{"text":"def start(self):"}
+{"text":"def create_redis_client(redis_address, password=None):"}
+{"text":"def proc_line_coordinate(self, line):"}
+{"text":"def zone_height_min2max(idf, zonename, debug=False):"}
+{"text":"def get_package_version(module_obj, value):"}
+{"text":"def getDPI(filepath):"}
+{"text":"def create_geometry(self, input_geometry, upper_depth, lower_depth):"}
+{"text":"def read(self, buffer_size, window_size, x, y, p, address, length_bytes):"}
+{"text":"def iso8601_date(d):"}
+{"text":"def convert_uptime_string_seconds(uptime):"}
+{"text":"def coverage_lineplot (self):"}
+{"text":"def template(spec_fn):"}
+{"text":"def parse_track_header(self, fp):"}
+{"text":"def time_series(timefile, colnames):"}
+{"text":"def get_fk_widget(cls, field):"}
+{"text":"def dump(self, stream, contentType=None, version=None):"}
+{"text":"def speed(self, factor):"}
+{"text":"def get_decoder(encoding, *args, **kwargs):"}
+{"text":"def get_chempot_correction(element, temp, pres):"}
+{"text":"def install_os(name, **kwargs):"}
+{"text":"def whichrestype(atom):"}
+{"text":"def set_entity_info(self, chain_indices, sequence, description, entity_type):"}
+{"text":"def load_object(import_path):"}
+{"text":"def boxplot(x, y, **kwargs):"}
+{"text":"def on_finish(self):"}
+{"text":"def get_campus_permissions(calendar_id, campus_code):"}
+{"text":"def load_metadata(fileobj):"}
+{"text":"def transform_fn(net, data, input_content_type, output_content_type):"}
+{"text":"def ExcludedVolumeChain(q, Rg, nu):"}
+{"text":"def execute_all(self):"}
+{"text":"def _timeout_from_retry_config(retry_params):"}
+{"text":"def sersic_constant(self):"}
+{"text":"def cli(env, sortby):"}
+{"text":"def set_password(ctx, new_password, remember):"}
+{"text":"def create_database(self, dbname, partitioned=False, **kwargs):"}
+{"text":"async def play(self, ctx, *, query):"}
+{"text":"def store_property(url, property_name, value):"}
+{"text":"def layers(name):"}
+{"text":"def get_timemachine_instance(self, key):"}
+{"text":"def beacon(config):"}
+{"text":"def baseimage(self, new_image):"}
+{"text":"def clean(self):"}
+{"text":"def get_local_rank_size(comm):"}
+{"text":"def send_accept_notification(request, message=None, expires_at=None):"}
+{"text":"def _get_group_infos(self):"}
+{"text":"def process_event(self, module_name, event, default_event=False):"}
+{"text":"def build(self, spec, reset=True):"}
+{"text":"def allele_counts_dataframe(variant_and_allele_reads_generator):"}
+{"text":"def get_users(session, query):"}
+{"text":"def weighted_choice(population):"}
+{"text":"def clone(self):"}
+{"text":"def humanize_timedelta(seconds):"}
+{"text":"def kuhn_munkres(G, TOLERANCE=1e-6):"}
+{"text":"def get_long_short_pos(positions):"}
+{"text":"def reachable_nodes_reverse(self, p_id, p_recursive=True):"}
+{"text":"def _statsmodels_bivariate_kde(self, x, y, bws, xsize, ysize, xyranges):"}
+{"text":"def strip_alias(data_type):"}
+{"text":"def parse_python_file(filepath):"}
+{"text":"def reference_fasta(self):"}
+{"text":"def withdraw(self, amount):"}
+{"text":"def __write_json_file(path, values):"}
+{"text":"def write_banner(title, text='&nbsp;'):"}
+{"text":"def save_scatter_table(self, fn, description=\"\"):"}
+{"text":"def nested_set_dict(d, keys, value):"}
+{"text":"def _get_id_token_user(token, issuers, audiences, allowed_client_ids, time_now, cache):"}
+{"text":"def _GetOrderedEntries(data):"}
+{"text":"def read_long(self, signed=True):"}
+{"text":"def get_node_attribute(self, node, attribute_name):"}
+{"text":"def rewrite_url(input_url, **kwargs):"}
+{"text":"def update(name, source=None, pre_versions=False):"}
+{"text":"def namedb_namespace_fields_check( namespace_rec ):"}
+{"text":"def open_webpage(self, url):"}
+{"text":"def extract_svg(display_object, dpi=300, compress='auto'):"}
+{"text":"def literal_struct(cls, elems):"}
+{"text":"def validate_args(fname, args, max_fname_arg_count, compat_args):"}
+{"text":"def recover_fast_dynamic_model_from_data(model_class, original_data, modified_data, deleted_data, field_types):"}
+{"text":"def smsTextMode(self, textMode):"}
+{"text":"def _vpc_config(self):"}
+{"text":"def version(core_name=None):"}
+{"text":"def run(self):"}
+{"text":"def pvals(cls, slice_, axis=0, weighted=True):"}
+{"text":"def get_study_items(results):"}
+{"text":"def to_backward_slashes(data):"}
+{"text":"def parseJSON(self, f):"}
+{"text":"def cart_add(self, items, CartId=None, HMAC=None, **kwargs):"}
+{"text":"def get(cls, name=__name__):"}
+{"text":"def element_info_as_json(name):"}
+{"text":"def create_parser(self, prog_name, subcommand):"}
+{"text":"def score(package_path):"}
+{"text":"def _apply_dict(self, qe_dict):"}
+{"text":"def vmdk_to_ami(args):"}
+{"text":"def psdcompletion(A, reordered = True, **kwargs):"}
+{"text":"def _get_response(self, method, endpoint, data=None):"}
+{"text":"def _get_index_urls_locations(self, project_name):"}
+{"text":"def raise_402(instance, msg=None):"}
+{"text":"def build(base_folder, size_pyramid, factor, min_bin_per_contig):"}
+{"text":"def teams(self, year=2019):"}
+{"text":"def url_for(self, *args: str, **kwargs: str) -> URL:"}
+{"text":"def get_sentences_for_agent(text, stmts, max_sentences=None):"}
+{"text":"def set_unavailable(self):"}
+{"text":"def _create_network_backing(network_name, switch_type, parent_ref):"}
+{"text":"def isexe(*components):"}
+{"text":"def copy_path(self, path):"}
+{"text":"def calc_counts(skydir, ltc, event_class, event_types,\n                egy_bins, cth_bins, fn, npts=1):"}
+{"text":"def object_merge(old, new, unique=False):"}
+{"text":"def remove_aliases(self_or_cls, aliases):"}
+{"text":"def power_up(self):"}
+{"text":"def run3(data, ipyclient, force):"}
+{"text":"def append(self, tp, timestamp_ms, key, value, headers, max_time_to_block_ms,\n               estimated_size=0):"}
+{"text":"def filter(self, **kwargs):"}
+{"text":"def uninstalled(name):"}
+{"text":"def d2Sbus_dV2(Ybus, V, lam):"}
+{"text":"def xml_report(self, morfs=None, outfile=None, ignore_errors=None,\n                    omit=None, include=None):"}
+{"text":"def bitmap2RRlist(bitmap):"}
+{"text":"def send(self, request):"}
+{"text":"def find_by_organization(self, organization, params={}, **options): "}
+{"text":"def lf_summary(L, Y=None, lf_names=None, est_accs=None):"}
+{"text":"def readerForFile(filename, encoding, options):"}
+{"text":"def width_rect_weir(FlowRate, Height):"}
+{"text":"def _read_in_thread(address, pty, blocking):"}
+{"text":"def update_source(self, address, metadata_dict):"}
+{"text":"def find_copies(input_dir, exclude_list):"}
+{"text":"def contains_all(self, other, atol=0.0):"}
+{"text":"def integrate(self, min, max, attr=None, info={}):"}
+{"text":"def inc(self):"}
+{"text":"def _set_token_defaults(token):"}
+{"text":"def nucmer(args):"}
+{"text":"def transformer_wikitext103_l4k_memory_v0():"}
+{"text":"def _split_column_and_labels(self, column_or_label):"}
+{"text":"def clean(self):"}
+{"text":"def synthesize_multiple(self, audio_file_path, c_quit_after, c_backwards, u_text):"}
+{"text":"def plot_time_elapsed(filename, elapsed=False, unit='s', plot_kwargs=None):"}
+{"text":"def publish(self):"}
+{"text":"def results(self):"}
+{"text":"def _is_allowed(attr, *args):"}
+{"text":"def find_generations(container, with_data=False):"}
+{"text":"def get_user_groups(self, user):"}
+{"text":"def check_updates(self, startup=False):\r"}
+{"text":"def _GenerateNotices(self):"}
+{"text":"def list_refunds(self, params=None):"}
+{"text":"def diff_summary(self, old, new, rel_path=None):"}
+{"text":"def _set_element_property(parent_to_parse, element_path, prop_name, value):"}
+{"text":"def _download_response(self):"}
+{"text":"def process_management_config_section(config, management_config):"}
+{"text":"def validate_book(body):"}
+{"text":"def __update_mouse(self, milliseconds):"}
+{"text":"def align(s1, s2, gap=' ', eq=operator.eq):"}
+{"text":"def human_friendly(self):"}
+{"text":"def chartDF(symbol, timeframe='1m', date=None, token='', version=''):"}
+{"text":"def get_model(LAB_DIR):"}
+{"text":"def Array(dtype, size=None, ref=False):"}
+{"text":"def run(self):"}
+{"text":"async def process_feed(self, url, send_mentions=True):"}
+{"text":"def mask_roi_unique(self):"}
+{"text":"def queryset(self):"}
+{"text":"def _calculate_sv_coverage_cnvkit(data, work_dir):"}
+{"text":"def native_contracts(address: int, data: BaseCalldata) -> List[int]:"}
+{"text":"def get_fingerprint_from_public_key(pubkey):"}
+{"text":"def get_list(self, list_id):"}
+{"text":"def create_fwrule(kwargs=None, call=None):"}
+{"text":"def getMetrics(self):"}
+{"text":"def build_collate_fn(batch_first=False, parallel=True, sort=False):"}
+{"text":"def add_pre(h,sec_list,section,order_list=None,branch_order=None):"}
+{"text":"def search_image(self, search_term):"}
+{"text":"def initialize(self,*args,**kwargs):"}
+{"text":"def set(self, value):"}
+{"text":"def binary_op(self, op, other, **kwargs):"}
+{"text":"def join(self):"}
+{"text":"def AddStationDecoration(self, index, color=\"#f00\"):"}
+{"text":"def getDefaultApplicationForMimeType(self, pchMimeType, pchAppKeyBuffer, unAppKeyBufferLen):"}
+{"text":"def order_by(self, key_selector=identity):"}
+{"text":"def sound_pressure(self):"}
+{"text":"def get_datetime_now():"}
+{"text":"def save_to(self, file):"}
+{"text":"def benchmarkOneQuery(request, repeatLimit=3, pageLimit=3):"}
+{"text":"def dump(self, stream, index=0, count=0, output=str()):"}
+{"text":"def images():"}
+{"text":"def _pprint_seq(seq, _nest_lvl=0, max_seq_items=None, **kwds):"}
+{"text":"def model_reaction_limits(model):"}
+{"text":"def mp_check_impl(self, process_count):"}
+{"text":"def last_location_of_maximum(x):"}
+{"text":"def get_export(request):"}
+{"text":"def mdstrip(value, length=None, end='\u2026'):"}
+{"text":"def _ip_int_from_string(cls, ip_str):"}
+{"text":"def check_signature(object_name, reference_object, other_object):"}
+{"text":"def delete(self, request, bot_id, id, format=None):"}
+{"text":"def getControllerState(self, unControllerDeviceIndex, unControllerStateSize=sizeof(VRControllerState_t)):"}
+{"text":"def _process_json(data):"}
+{"text":"def isclose(a, b, atol):"}
+{"text":"def coil_combine(data, w_idx=[1,2,3], coil_dim=2, sampling_rate=5000.):"}
+{"text":"def check_is_declared_explicit(lineno, id_, classname='variable'):"}
+{"text":"def authenticate(remote_addr, password, cert, key, verify_cert=True):"}
+{"text":"def mbar_gradient(u_kn, N_k, f_k):"}
+{"text":"def setup_exceptions():"}
+{"text":"def open(self, filename, mode='r', bufsize=-1):"}
+{"text":"def prop2b(gm, pvinit, dt):"}
+{"text":"def _build_ds_from_instruction(instruction, ds_from_file_fn):"}
+{"text":"def dump_private_key(private_key, passphrase, encoding='pem', target_ms=200):"}
+{"text":"def runGetDataset(self, id_):"}
+{"text":"def protocol(handler, cfg):"}
+{"text":"def get_repo_parent(path):"}
+{"text":"def _get_trailing_whitespace(marker, s):"}
+{"text":"def do_get_page(parser, token):"}
+{"text":"def send(self, data):"}
+{"text":"def footrule_dist(params1, params2=None):"}
+{"text":"def concatenate_block_managers(mgrs_indexers, axes, concat_axis, copy):"}
+{"text":"def get_name_or_instance_id(self, with_id=False):"}
+{"text":"def insert_column(self, index, header, column):"}
+{"text":"def get_unique_clause_indices( text ):"}
+{"text":"def _get_place_details(place_id, api_key, sensor=False,\n                       language=lang.ENGLISH):"}
+{"text":"def subproc_call(cmd, timeout=None):"}
+{"text":"def parse_type_str(expected_base=None, with_arrlist=False):"}
+{"text":"def simxSetIntegerParameter(clientID, paramIdentifier, paramValue, operationMode):"}
+{"text":"def copy(self):"}
+{"text":"def socket_close(self):"}
+{"text":"def check_npndarray(val, dtype=None, writeable=True, verbose=True):"}
+{"text":"def visit(spht, node):"}
+{"text":"def send_queued(processes=1, log_level=None):"}
+{"text":"def calculateEntropy(activeColumns, type='binary'):"}
+{"text":"def show_rectangle(self, start_point, end_point):"}
+{"text":"def node_rank(self):"}
+{"text":"def matchfieldnames(field_a, field_b):"}
+{"text":"def invalidate_cache(self, klass, extra=None, **kwargs):"}
+{"text":"def as_asciitree(self, str_func=None):"}
+{"text":"def keys(self) -> Iterator[str]:"}
+{"text":"def add_element_extension_method(Klass):"}
+{"text":"def about():"}
+{"text":"def unique(self):"}
+{"text":"def show_popup_menu(self, pos):"}
+{"text":"def to_python(self, value: Union[Dict[str, int], int, None]) -> LocalizedIntegerValue:"}
+{"text":"def calcEndOfPrdvP(self):"}
+{"text":"def write_matrix_to_tsv(net, filename=None, df=None):"}
+{"text":"def main():"}
+{"text":"def run_wfunc(self):"}
+{"text":"def encode(self, word, max_length=8):"}
+{"text":"def get_pandas_series(self):\r"}
+{"text":"def device_query_list(self, **kwargs):  # noqa: E501"}
+{"text":"def DirectedEdgeDetect(alpha=0, direction=(0.0, 1.0), name=None, deterministic=False, random_state=None):"}
+{"text":"def friedmanchisquare(*args):"}
+{"text":"def export_schema_to_dict(back_references):"}
+{"text":"def write(self):"}
+{"text":"def from_iterable(cls, target_types, address_mapper, adaptor_iter):"}
+{"text":"def _load_dataset(dsid, ds_info, file_handlers, dim='y'):"}
+{"text":"def decode(code, *, max_age):"}
+{"text":"def observe(cls, *args, **kwargs):"}
+{"text":"def failed_request_exception(message, r):"}
+{"text":"def lgammln(xx):"}
+{"text":"def copy_file_job(job, name, file_id, output_dir):"}
+{"text":"def getBriefAndDetailedRST(textRoot, node):"}
+{"text":"def open_recruitment(self, n=1):"}
+{"text":"def _is_junction(arg):"}
+{"text":"def load_maf_dataframe(path, nrows=None, raise_on_error=True, encoding=None):"}
+{"text":"def combine(objs):"}
+{"text":"def FromResponse(cls, response):"}
+{"text":"def __create_map(self, map_size):"}
+{"text":"def normalize_uri(self, uri):"}
+{"text":"def write(self, data):"}
+{"text":"def do_renegotiate(self) -> None:"}
+{"text":"def _safe_name(file_name, sep):"}
+{"text":"def write_index_translation(translation_filename, entity_ids, relation_ids):"}
+{"text":"def refresh_editor(self, color_scheme):"}
+{"text":"def match(fullname1, fullname2, strictness='default', options=None):"}
+{"text":"def dsa_sign(private_key, data, hash_algorithm):"}
+{"text":"def spisend(self, bytes_to_send):"}
+{"text":"def zap(input_url, archive, domain, host, internal, robots, proxies):"}
+{"text":"def _get_example_from_properties(self, spec):"}
+{"text":"def get_preparation_data(name):\r"}
+{"text":"def main():"}
+{"text":"def relmoveto(self, x, y):"}
+{"text":"def symbolic(self) -> bool:"}
+{"text":"def _construct_cmdlines(self):"}
+{"text":"def get_bucket(seq_len: int, buckets: List[int]) -> Optional[int]:"}
+{"text":"def unicode_urlencode(obj, charset='utf-8'):"}
+{"text":"def dfa_json_importer(input_file: str) -> dict:"}
+{"text":"def hash_sha256(self):"}
+{"text":"def proj_archetypes(self, test_data, reverse_transform=False):"}
+{"text":"def is_child_of_objective(self, id_=None, objective_id=None):"}
+{"text":"def get_rup_array(ebruptures, srcfilter=nofilter):"}
+{"text":"def simxReadDistance(clientID, distanceObjectHandle, operationMode):"}
+{"text":"def _make_api_call(self, method, url, json_params=None):"}
+{"text":"def processAndSetDefaults(self):"}
+{"text":"def publish_brightness(self, brightness):"}
+{"text":"def _check_args(logZ, f, x, samples, weights):"}
+{"text":"def remove_feature(feature, remove_payload=False, image=None, restart=False):"}
+{"text":"def _do_scale_fit(freqs, signal, model, w=None):"}
+{"text":"def filter_queryset(self, request, queryset, view):"}
+{"text":"def list(gandi, state, id, limit, datacenter):"}
+{"text":"def benchmark_data(self):"}
+{"text":"def get_apphook_field_names(model):"}
+{"text":"def visit_break(self, node, parent):"}
+{"text":"def _get_default_mapfile_excerpt(self):"}
+{"text":"def get_nodes_positions(self):"}
+{"text":"def delete_webhook(webhook_id):"}
+{"text":"def setup_parser():"}
+{"text":"def from_string(data_str):"}
+{"text":"def prompt_bool(name, default=False, yes_choices=None, no_choices=None):"}
+{"text":"def register_plugin(self):\r"}
+{"text":"def postprocess(trun):"}
+{"text":"def source_get(method_name):"}
+{"text":"def retry(tries, CatchExceptions=(Exception,), delay=0.01, backoff=2):"}
+{"text":"def guess_geometry(graph, unit_cell=None, verbose=False):"}
+{"text":"def transposed_lists(list_of_lists, default=None):"}
+{"text":"def apply_actions(self, name_of_action, actions):"}
+{"text":"def is_transport_reaction_annotations(rxn):"}
+{"text":"def register_options(this_class, argparser):"}
+{"text":"def license_from_trove(trove):"}
+{"text":"def wrap(cls, socket, hostname, session=None):"}
+{"text":"def load_default_templates(self):"}
+{"text":"def transform(self, X, y=None, sample_weight=None):"}
+{"text":"def paint(self, text, x, y, colour=7, attr=0, bg=0, transparent=False,\n              colour_map=None):"}
+{"text":"def splitPrefix(name):"}
+{"text":"def parse_text(text: str, schema: dict) -> Any:"}
+{"text":"def is_not_null_predicate(\n    raw_crash, dumps, processed_crash, processor, key=''\n):"}
+{"text":"def ekpsel(query, msglen, tablen, collen):"}
+{"text":"def iterall(cls, target, branch, build, flags, platform=None):"}
+{"text":"def tripledes_cbc_pkcs5_decrypt(key, data, iv):"}
+{"text":"def gunzip(gzipfile, template=None, runas=None, options=None):"}
+{"text":"def html_to_rgb(html):"}
+{"text":"def beta_aligned(returns, factor_returns, risk_free=0.0, out=None):"}
+{"text":"def _call_method(self, request):"}
+{"text":"def _set_factory_context(factory_class, bundle_context):"}
+{"text":"def download_rsr(**kwargs):"}
+{"text":"def set_vertices(self, verts=None, indexed=None, reset_normals=True):"}
+{"text":"def wave_units(self, units):"}
+{"text":"def geocode(self, query, exactly_one=True, timeout=DEFAULT_SENTINEL,\n                out_fields=None):"}
+{"text":"def Seek(self, offset, whence=os.SEEK_SET):"}
+{"text":"def get_current_app(self):"}
+{"text":"def has_connection_details_changed(self, req_connection_details):"}
+{"text":"def data(self, data):"}
+{"text":"def table_mapping(data, padding=1, separator=\" \"):"}
+{"text":"def ported_string(raw_data, encoding='utf-8', errors='ignore'):"}
+{"text":"def mark(self, channel, ts):"}
+{"text":"def affinity(\n        matrix,\n        mask=None,\n        scale=None,\n):"}
+{"text":"def is_ISS_above(self, latitude, longitude, altitude=None):"}
+{"text":"def jinja2_output_as_string(impact_report, component_key):"}
+{"text":"def classify(label_dict,image_fname=None,image_label=None):"}
+{"text":"def process(meta):"}
+{"text":"def setup_admin_user_publisher():"}
+{"text":"def find_one(driver, locator_list, elem_type=CSS, timeout=TIMEOUT):"}
+{"text":"def compile(self, db):"}
+{"text":"def table(self, data2=None, dense=True):"}
+{"text":"def not_send_status(func):"}
+{"text":"def classify_coupling(coupling):"}
+{"text":"def kde_sklearn(data, grid, **kwargs):"}
+{"text":"def formatted(name, fs_type='ext4', force=False, **kwargs):"}
+{"text":"def fit(self, X, y, sample_weight=None):"}
+{"text":"def isrchi(value, ndim, array):"}
+{"text":"def search_unique_identities_slice(db, term, offset, limit):"}
+{"text":"def curve_elevate(curve, elevated):"}
+{"text":"def put(self, *args, **kwargs):"}
+{"text":"def cena_tau(imt, mag, params):"}
+{"text":"def get_all_values_of_all_params(self):"}
+{"text":"def retrieve(self, key_term):"}
+{"text":"def send_confirmation():"}
+{"text":"def setData(self, index, value, role):"}
+{"text":"def get_year_and_month(self, net, qs, **kwargs):"}
+{"text":"def append_dict_values(list_of_dicts, keys=None):"}
+{"text":"def _read_metadata(self, f, endianness):"}
+{"text":"def serving_input_fn(self, hparams):"}
+{"text":"def write(self, value):"}
+{"text":"def decorate_postinject(func, classkey=None, skipmain=False):"}
+{"text":"def wait(self, timeout=None):"}
+{"text":"def read_request_line(self):"}
+{"text":"def hist(darray, figsize=None, size=None, aspect=None, ax=None, **kwargs):"}
+{"text":"def _split_index(params):"}
+{"text":"def agp(args):"}
+{"text":"def workers(profile='default'):"}
+{"text":"def _log_phi(z):"}
+{"text":"def update(self):"}

@@ -1,0 +1,20 @@
+objective:
+  name: AWR
+  alpha: 0.5
+  beta: 0.1
+
+model:
+  model_kwargs:
+    value_head_config:
+      is_detached: false
+
+training:
+  learning_rate: 0.0001
+  effective_batch_size: 512
+  save_steps: 3346
+
+generation:
+  every_n_steps: 32
+
+kl_gpt3_callback:
+  every_n_steps: 32
