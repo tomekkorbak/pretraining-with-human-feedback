@@ -1,6 +1,6 @@
 # Pretraining Language Models with Human Preferences
 
-This repo contains the code accompanying the paper Pretraining Language Models with Human Preferences. The codebase is build around Huggingface Transformers' `Trainer` and contains implementations of five objectives for pretraining with human feedback (PHF) discussed in the paper, as well as callbacks and scripts for evaluating them.
+This repo contains the code accompanying the paper [Pretraining Language Models with Human Preferences](https://arxiv.org/abs/2302.08582). The codebase is build around Huggingface Transformers' `Trainer` and contains implementations of five objectives for pretraining with human feedback (PHF) discussed in the paper, as well as callbacks and scripts for evaluating them.
 
 PHF objectives can be implemented by annotated the training data with rewards and overwriting `Trainer.compute_loss` to use them as additional training signal. Rewards are provided by an instance of `apo.scorers.Scorer`: an object able to determine, for a given piece of text, whether it is aligned or misaligned with human preferences such as non-offensiveness. The scorer is also used for evaluating samples from PHF-trained LMs.
 
@@ -86,4 +86,15 @@ In addition to scoring LM samples, we use `apo.callbacks.KLGPT3Callback` to esti
 
 ## Citing
 
-TBA
+```bibtex
+@misc{https://doi.org/10.48550/arxiv.2302.08582,
+  doi = {10.48550/ARXIV.2302.08582},
+  url = {https://arxiv.org/abs/2302.08582},
+  author = {Korbak, Tomasz and Shi, Kejian and Chen, Angelica and Bhalerao, Rasika and Buckley, Christopher L. and Phang, Jason and Bowman, Samuel R. and Perez, Ethan},
+  keywords = {Computation and Language (cs.CL), Machine Learning (cs.LG), FOS: Computer and information sciences, FOS: Computer and information sciences},
+  title = {Pretraining Language Models with Human Preferences},
+  publisher = {arXiv},  
+  year = {2023},
+  copyright = {Creative Commons Attribution 4.0 International}
+}
+```
