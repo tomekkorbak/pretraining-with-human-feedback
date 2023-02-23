@@ -1,10 +1,10 @@
 # Pretraining Language Models with Human Preferences
 
-This repo contains the code accompanying the paper [Pretraining Language Models with Human Preferences](https://arxiv.org/abs/2302.08582). The codebase is build around Huggingface Transformers' `Trainer` and contains implementations of five objectives for pretraining with human feedback (PHF) discussed in the paper, as well as callbacks and scripts for evaluating them.
+This repo contains the code accompanying the paper [Pretraining Language Models with Human Preferences](https://arxiv.org/abs/2302.08582). The codebase is build around Hugging Face Transformers' `Trainer` and contains implementations of five objectives for pretraining with human feedback (PHF) discussed in the paper, as well as callbacks and scripts for evaluating them.
 
 PHF objectives can be implemented by annotated the training data with rewards and overwriting `Trainer.compute_loss` to use them as additional training signal. Rewards are provided by an instance of `apo.scorers.Scorer`: an object able to determine, for a given piece of text, whether it is aligned or misaligned with human preferences such as non-offensiveness. The scorer is also used for evaluating samples from PHF-trained LMs.
 
-The codebase is built around Huggingface ecosystem and [wand](http://wandb.ai) (for monitoring and experiment management). 
+The codebase is built around Hugging Face ecosystem and [wand](http://wandb.ai) (for monitoring and experiment management). 
 
 ## Quickstart
 
@@ -72,7 +72,7 @@ In addition to scoring LM samples, we use `apo.callbacks.KLGPT3Callback` to esti
 │   └── objectives.py  # classes implementing loss functions
 │   ├── scorer_utils.py
 │   ├── scorers.py  # classes for scoring LM samples and dataset elements
-│   └── trainer.py  # a subclass for HuggingFace Trainer exposing some functionalities
+│   └── trainer.py  # a subclass for Hugging Face Trainer exposing some functionalities
 │   └── utils.py
 ├── configs
 │   └── pep8
