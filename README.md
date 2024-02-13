@@ -46,6 +46,18 @@ The six objectives for training with human feedback used in our experiments are 
 | AWR                  | `AWR` | You also need to set hyperparameters `objective.alpha` and `objective.beta`           |
 | RWR                  | `AWR` | A special case of AWR with `objective.alpha=1`                                        |   
 
+## Pretrained models
+
+The models pretrained in our experiments are available on HugginFace Hub:
+
+| Objective        | Toxicity                                                                                        | PEP8                                                                          | PII                                                                                         |
+|------------------|-------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|
+| MLE              | [tomekkorbak/goofy_pasteur](https://huggingface.co/tomekkorbak/goofy_pasteur)                   | [kejian/mighty-mle](https://huggingface.co/kejian/mighty-mle)                 | [tomekkorbak/nervous_wozniak](https://huggingface.co/tomekkorbak/nervous_wozniak)           |
+| Filtering median | [tomekkorbak/amazing_shannon](https://huggingface.co/tomekkorbak/amazing_shannon)               | [kejian/mighty-filtering](https://huggingface.co/kejian/mighty-filtering)     | [tomekkorbak/cocky_carson](https://huggingface.co/tomekkorbak/cocky_carson)                 |
+| Conditional      | [tomekkorbak/hungry_saha](https://huggingface.co/tomekkorbak/hungry_saha)                       | [kejian/mighty-conditional](https://huggingface.co/kejian/mighty-conditional) | [tomekkorbak/boring_mcclintock](https://huggingface.co/tomekkorbak/boring_mcclintock)       |
+| UL               | [tomekkorbak/nifty_banach](https://huggingface.co/tomekkorbak/nifty_banach)                     | [kejian/mighty-ul](https://huggingface.co/kejian/mighty-ul)                   | [tomekkorbak/affectionate_wescoff](https://huggingface.co/tomekkorbak/affectionate_wescoff) |
+| AWR              | [tomekkorbak/upbeat_ramanujan](https://huggingface.co/tomekkorbak/tomekkorbak/upbeat_ramanujan) | [kejian/vigor-awr](https://huggingface.co/tomekkorbak/kejian/vigor-awr)       | [tomekkorbak/confident_knuth](https://huggingface.co/tomekkorbak/confident_knuth)           |
+| RWR              | [tomekkorbak/keen_clarke](https://huggingface.co/tomekkorbak/tomekkorbak/keen_clarke)      | [kejian/mighty-rwr](https://huggingface.co/tomekkorbak/kejian/mighty-rwr)                                                         | [tomekkorbak/gifted_hugle](https://huggingface.co/tomekkorbak/gifted_hugle)                                                                           |
 
 
 ## Metrics
