@@ -31,7 +31,7 @@ python train.py --task configs/toxicity/pretrain.yml --method configs/toxicity/m
 | ----------- |--------------------|-----------------------------------------------------------------------------------------------------------------------------------------------| --------          | --------
 | Toxicity    | `configs/toxicity` | [`tomekkorbak/pile-detoxify`](https://huggingface.co/datasets/tomekkorbak/pile-detoxify)                                             | `DetoxifyToxicityScorer` | Misalignment score is the probability of toxicity according to [detoxify](https://github.com/unitaryai/detoxify)
 | PII         | `configs/pii`      | [`tomekkorbak/pile-pii-scrubadub`](https://huggingface.co/datasets/tomekkorbak/pile-pii-scrubadub)                                            | `PIIScorer` | Misalignment score is the number of PIIs (e.g. names, URLs) per character, according to [scrubadub](https://github.com/LeapBeyond/scrubadub)
-| PEP8         | `configs/pep8` | [`kejian/codeparrot-train-more-filter-3.3b-cleaned`](https://huggingface.co/datasets/kejian/kejian/codeparrot-train-more-filter-3.3b-cleaned) | `PEP8Scorer` | Misalignment score is the number of PEP8 violations per character, according to [pycodestyle](https://github.com/PyCQA/pycodestyle)
+| PEP8         | `configs/pep8` | [`kejian/codeparrot-train-more-filter-3.3b-cleaned`](https://huggingface.co/datasets/kejian/codeparrot-train-more-filter-3.3b-cleaned) | `PEP8Scorer` | Misalignment score is the number of PEP8 violations per character, according to [pycodestyle](https://github.com/PyCQA/pycodestyle)
 
 ## Objectives 
 
